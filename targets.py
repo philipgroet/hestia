@@ -62,7 +62,9 @@ class Target(ABC):
                 continue
             
             message = f"{hestia.HOUSE_EMOJI} {home.address}, {home.city}\n"
-            message += f"{hestia.EURO_EMOJI} €{home.price}/m\n\n"
+            message += f"{hestia.EURO_EMOJI} €{home.price}/m\n"
+            if home.distance_to_center:
+              message += f"Dist to center {home.distance_to_center} km\n\n"
             
             message = hestia.escape_markdownv2(message)
             
