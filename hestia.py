@@ -14,13 +14,14 @@ import hestia
 import geocoding
 
 class Home:
-    def __init__(self, address='', city='', url='', agency='', price=-1):
+    def __init__(self, address='', city='', url='', agency='', price=-1, location=None, distance_to_center=-1):
         self.address = address
         self.city = city
         self.url = url
         self.agency = agency
         self.price = price
-        self.location = geocoding.get_coordinate_location(self.address, self.city)
+        self.location = location
+        self.distance_to_center = distance_to_center
         
     def __repr__(self):
         return str(self)
@@ -54,6 +55,12 @@ class Home:
             self.price,
             self.agency,
             datetime.now().isoformat()))
+
+    def geocode(self):
+        latitude, longitude = geocoding.geocode(self.address, self.city)
+        self.location = (latitude, longitude)
+        
+        self.distance_to_center = geocoding.distance_to_city_center(latitude, longitude, self.city)
 
     @property
     def address(self):
@@ -159,6 +166,7 @@ class HomeResults:
             home.city = res["city"]
             home.url = "https://vesteda.com" + res["url"]
             home.price = int(res["priceUnformatted"])
+            home.geocode()
             self.homes.append(home)
             
     def parse_ikwilhuren(self, r):
@@ -183,6 +191,7 @@ class HomeResults:
                 home.url = "https://ikwilhuren.nu" + link
                 
             home.price = int(str(res.find(class_="fw-bold")).split(' ')[2].replace('.', '')[:-2])
+            home.geocode()
             self.homes.append(home)
         
     def parse_vbt(self, r):
@@ -198,6 +207,7 @@ class HomeResults:
             home.city = res["address"]["city"]
             home.url = res["source"]["externalLink"]
             home.price = int(res["prices"]["rental"]["price"])
+            home.geocode()
             self.homes.append(home)
             
     def parse_alliantie(self, r):
@@ -218,6 +228,7 @@ class HomeResults:
             home.city = res["url"][city_start:city_end].capitalize()
             home.url = "https://ik-zoek.de-alliantie.nl/" + res["url"].replace(" ", "%20")
             home.price = int(res["price"][2:].replace('.', ''))
+            home.geocode()
             self.homes.append(home)
             
     def parse_woningnet(self, r):
@@ -237,6 +248,7 @@ class HomeResults:
             home.city = res["PlaatsWijk"].split('-')[0][:-1]
             home.url = "https://www.woningnetregioamsterdam.nl" + res["AdvertentieUrl"]
             home.price = int(res["Prijs"][2:-3].replace('.', ''))
+            home.geocode()
             self.homes.append(home)
             
     def parse_bouwinvest(self, r):
@@ -252,6 +264,7 @@ class HomeResults:
             home.city = res["address"]["city"]
             home.url = res["url"]
             home.price = int(res["price"]["price"])
+            home.geocode()
             self.homes.append(home)
     
     def parse_krk(self, r):
@@ -282,6 +295,7 @@ class HomeResults:
             home.city = str(res.find("span", class_="locality").contents[0])
             home.url = "https://yourexpatbroker.nl" + res.find("a", class_="saletitle")["href"].split('?')[0]
             home.price = int(str(res.find("span", class_="obj_price").contents[0]).split('€')[1][1:6].split(',')[0].replace('.', ''))
+            home.geocode()
             self.homes.append(home)
             
     def parse_pararius(self, r):
@@ -311,6 +325,8 @@ class HomeResults:
                 home.price = int(raw_price[1:].split(' ')[0].replace('.', ''))
             except:
                 continue
+            
+            home.geocode()
 
             self.homes.append(home)
             
@@ -339,6 +355,7 @@ class HomeResults:
             home.city = res["_source"]["address"]["city"]
             home.url = "https://funda.nl" + res["_source"]["object_detail_page_relative_url"]
             home.price = res["_source"]["price"]["rent_price"][0]
+            home.geocode()
 
             self.homes.append(home)
 
