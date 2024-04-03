@@ -81,6 +81,10 @@ def distance_to_city_center(latitude, longitude, city):
     if city not in city_center_coordinates:
         print(f"Error: City '{city}' not found in the city center coordinates.")
         return None
+    
+    if not latitude or not longitude:
+        print("Error: Invalid coordinates.")
+        return None
 
     # Get the coordinates of the city center
     city_latitude, city_longitude = city_center_coordinates[city]
