@@ -14,7 +14,7 @@ import hestia
 import geocoding
 
 class Home:
-    def __init__(self, address='', city='', url='', agency='', price=-1, location=None, distance_to_center=-1):
+    def __init__(self, address='', city='', url='', agency='', price=-1, location=(-1, -1), distance_to_center=-1):
         self.address = address
         self.city = city
         self.url = url
@@ -44,16 +44,28 @@ class Home:
         
         assert type(self.price) is float
         assert self.price > 1
+        
+        # TODO: Not tested
+        assert type(self.location) is tuple
+        assert len(self.location) == 2
+        assert type(self.location[0]) is float
+        assert type(self.location[1]) is float
+        
+        assert type(self.distance_to_center) is float
 
         assert "https://" in self.url
 
     def save(self):
+        # TODO: Add location and distance_to_center to the database
+        # hestia.query_db("INSERT INTO homes VALUES (%s, %s, %s, %s, %s, %s, %s, %s)",
         hestia.query_db("INSERT INTO homes VALUES (%s, %s, %s, %s, %s, %s)",
             (self.url,
             self.address,
             self.city,
             self.price,
             self.agency,
+            # self.location,
+            # self.distance_to_center
             datetime.now().isoformat()))
 
     def geocode(self):
@@ -107,6 +119,22 @@ class Home:
             city = "Wijk bij Duurstede"
             
         self._parsed_city = city
+
+    @property
+    def location(self):
+        return self._location
+    
+    @location.setter
+    def location(self, location):
+        self._location = location
+    
+    @property
+    def distance_to_center(self):
+        return self._distance_to_center
+    
+    @distance_to_center.setter
+    def distance_to_center(self, distance_to_center):
+        self._distance_to_center = distance_to_center
 
 class HomeResults:
     def __getitem__(self, n):
