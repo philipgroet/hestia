@@ -11,6 +11,7 @@ from datetime import datetime, timedelta
 
 import re
 import hestia
+import geocoding
 
 class Home:
     def __init__(self, address='', city='', url='', agency='', price=-1):
@@ -19,6 +20,7 @@ class Home:
         self.url = url
         self.agency = agency
         self.price = price
+        self.location = geocoding.get_coordinate_location(self.address, self.city)
         
     def __repr__(self):
         return str(self)
