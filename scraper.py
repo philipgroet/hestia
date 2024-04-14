@@ -32,8 +32,6 @@ async def main():
         logging.warning("Scraper is halted.")
         exit()
 
-    targets = hestia.query_db("SELECT * FROM targets WHERE enabled = true")
-
     logging.debug('Scarping targets...')
 
     await scrapeAllTargets()

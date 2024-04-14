@@ -1,18 +1,30 @@
 import requests
 import time
 from math import radians, sin, cos, sqrt, atan2
+import datetime
+from city_centers import city_centers
+from retry import retry
+
+from db import query_db
 
 API_KEY = "660bfd768a466267341390xki1f15c5"
 
-city_center_coordinates = {
-    "Utrecht": (52.0907, 5.1214),
-    "Amsterdam": (52.370801, 4.897269),
-    "Rotterdam": (51.9225, 4.47917),
-    "The Hague": (52.0705, 4.3007),
-    "Leiden": (52.1601, 4.4970),
-    "Zeist": (52.0907, 5.2211),
-}
-  
+@retry(waitTime=1.1, times=2, exceptions=(RuntimeError))
+def get_cached_city_center(city: str):
+    print(f"get_cached_city_center: {city}")
+    if city in city_centers:
+        return city_centers[city]
+    
+    location = get_coordinate_location(city)
+    if location is not None:
+        # Squeak
+        print(f"get_cached_city_center: {city} not in cache, but did find it at {location}")
+        return location
+
+    return (None, None)
+
+    
+@retry(waitTime=1.1, times=2, exceptions=(RuntimeError))
 def get_coordinate_location(address, city=None):
     """
     Get the coordinates (latitude, longitude) of a given address using the Maps.co Geocoding API.
@@ -52,13 +64,16 @@ def get_coordinate_location(address, city=None):
             print("No results found for the given address.")
     else:
         print(f"Error: {response.status_code}")
+        raise RuntimeError(response.status_code)
+        
 
-    # Return None if no coordinates were found
-    return None
+    # # Return None if no coordinates were found
+    # return None
 
-def distance_to_city_center(latitude, longitude, city):
+def distance_to_city_center(latitude: str, longitude: str, city: str):
     """
-    Calculate the distance between a given address and the city center of a given city.
+    Calculate the distance (km) between a given address and the city center of a given city.
+    https://stackoverflow.com/questions/4913349/haversine-formula-in-python-bearing-and-distance-between-two-gps-points
     """
     def haversine(lat1, lon1, lat2, lon2):
       """
@@ -78,28 +93,23 @@ def distance_to_city_center(latitude, longitude, city):
 
       return distance
 
-    if city not in city_center_coordinates:
-        print(f"Error: City '{city}' not found in the city center coordinates.")
-        return None
+    # if city not in city_center_coordinates:
+    #     print(f"Error: City '{city}' not found in the city center coordinates.")
+    #     return None
     
     if not latitude or not longitude:
         print("Error: Invalid coordinates.")
         return None
 
     # Get the coordinates of the city center
-    city_latitude, city_longitude = city_center_coordinates[city]
-    
-    print(f"Address coordinates: {latitude}, {longitude}")
+    city_latitude, city_longitude = get_cached_city_center(city)
+    if city_latitude is None:
+        raise RuntimeError(f"Could not get_cached_city_center for {city}") 
+
+    print(f"Address coordinates: {float(latitude)}, {float(longitude)}")
     print(f"City ({city}) coordinates: {city_latitude}, {city_longitude}")
 
     # Calculate the distance using the Haversine formula
-    distance = haversine(float(latitude), float(longitude), city_latitude, city_longitude)
+    distance = haversine(float(latitude), float(longitude), float(city_latitude), float(city_longitude))
 
     return distance
-
-latitude, longitude = get_coordinate_location("Kromme Nieuwegracht", "Utrecht")
-print(f"Lattitude {latitude}, Longitude {longitude}")
-print(f"{latitude}, {longitude}")
-
-distance = distance_to_city_center(latitude, longitude, "Utrecht")
-print(f"Distance to city center: {distance:.2f} km")

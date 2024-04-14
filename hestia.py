@@ -6,15 +6,17 @@ import requests
 import re
 from psycopg2.extras import RealDictCursor
 from bs4 import BeautifulSoup
-from secrets import TOKEN, DB_DB, DB_HOST, DB_USER, DB_PASSWORD, DB_PORT
+from secrets import TOKEN
 from datetime import datetime, timedelta
 
 import re
+from db import query_db
 import hestia
 import geocoding
+from retry import retry
 
 class Home:
-    def __init__(self, address='', city='', url='', agency='', price=-1, location=(-1, -1), distance_to_center=-1):
+    def __init__(self, address='', city='', url='', agency='', price=-1, location=(-1, -1), distance_to_center=None):
         self.address = address
         self.city = city
         self.url = url
@@ -27,7 +29,7 @@ class Home:
         return str(self)
         
     def __str__(self):
-        return f"Home({self.address}, {self.city}, {self.agency.title()}, {self.price}, {self.url})"
+        return f"Home({self.address}, {self.city}, {self.agency.title()}, {self.price}, {self.url}, distance_center=({self.distance_to_center}))"
         
     def __eq__(self, other):
         if self.address.lower() == other.address.lower():
@@ -45,13 +47,13 @@ class Home:
         assert type(self.price) is float
         assert self.price > 1
         
-        # TODO: Not tested
-        assert type(self.location) is tuple
-        assert len(self.location) == 2
-        assert type(self.location[0]) is float
-        assert type(self.location[1]) is float
+        # # TODO: Not tested
+        # assert type(self.location) is tuple
+        # assert len(self.location) == 2
+        # assert type(self.location[0]) is float
+        # assert type(self.location[1]) is float
+        # assert type(self.distance_to_center) is float
         
-        assert type(self.distance_to_center) is float
 
         assert "https://" in self.url
 
@@ -69,7 +71,7 @@ class Home:
             datetime.now().isoformat()))
 
     def geocode(self):
-        latitude, longitude = geocoding.geocode(self.address, self.city)
+        latitude, longitude = geocoding.get_coordinate_location(self.address, self.city)
         self.location = (latitude, longitude)
         
         self.distance_to_center = geocoding.distance_to_city_center(latitude, longitude, self.city)
@@ -136,284 +138,6 @@ class Home:
     def distance_to_center(self, distance_to_center):
         self._distance_to_center = distance_to_center
 
-class HomeResults:
-    def __getitem__(self, n):
-        return self.homes[n]
-            
-    def __repr__(self):
-        return str([home for home in self.homes])
-    
-    def __init__(self, source, raw):
-        if not isinstance(source, str):
-            raise ValueError(f"Expected string as first argument, got {type(source)}")
-        if not isinstance(raw, requests.models.Response):
-            raise ValueError(f"Expected requests.models.Response object as second argument, got {type(raw)}")
-    
-        self.homes = []
-    
-        if source == "vesteda":
-            self.parse_vesteda(raw)
-        elif source == "ikwilhuren":
-            self.parse_ikwilhuren(raw)
-        elif source == "bouwinvest":
-            self.parse_bouwinvest(raw)
-        elif source == "alliantie":
-            self.parse_alliantie(raw)
-        elif source == "vbt":
-            self.parse_vbt(raw)
-        elif source == "krk":
-            self.parse_krk(raw)
-        elif source == "makelaarshuis":
-            self.parse_makelaarshuis(raw)
-        elif source == "woningnet":
-            self.parse_woningnet(raw)
-        elif source == "pararius":
-            self.parse_pararius(raw)
-        elif source == "funda":
-            self.parse_funda(raw)
-        else:
-            raise ValueError(f"Unknown source: {source}")
-    
-    def parse_vesteda(self, r):
-        results = json.loads(r.content)["results"]["items"]
-            
-        for res in results:
-            # Filter non-available properties
-            # Status 0 seems to be that the property is a project
-            if res["status"] != 1:
-                continue
-                
-            # I don't think seniors are really into Telegram
-            if res["onlySixtyFivePlus"]:
-                continue
-            
-            home = Home(agency="vesteda")
-            home.address = f"{res['street']} {res['houseNumber']}"
-            if res["houseNumberAddition"] is not None:
-                home.address += f"{res['houseNumberAddition']}"
-            home.city = res["city"]
-            home.url = "https://vesteda.com" + res["url"]
-            home.price = int(res["priceUnformatted"])
-            home.geocode()
-            self.homes.append(home)
-            
-    def parse_ikwilhuren(self, r):
-        results = BeautifulSoup(r.content, "html.parser").find_all("div", class_="card-woning")
-    
-        for res in results:
-            # Filter "zorgwoningen"
-            if "Zorgwoning" in res.get_text():
-                continue
-        
-            home = Home(agency="ikwilhuren")
-            home.address = str(res.find(class_="stretched-link").contents[0].strip())
-            
-            postcodecity = str(res.find(class_="card-body").contents[3].get_text())
-            home.city = ' '.join(postcodecity.split(' ')[1:])
-            
-            # ikwilhuren lists some Bouwinvest properties, which have a full link attached
-            link = res.find(class_="stretched-link")["href"]
-            if "wonenbijbouwinvest.nl" in link:
-                home.url = link
-            else:
-                home.url = "https://ikwilhuren.nu" + link
-                
-            home.price = int(str(res.find(class_="fw-bold")).split(' ')[2].replace('.', '')[:-2])
-            home.geocode()
-            self.homes.append(home)
-        
-    def parse_vbt(self, r):
-        results = json.loads(r.content)["houses"]
-        
-        for res in results:
-            # Filter Bouwinvest results to not have double results
-            if res["isBouwinvest"]:
-                continue
-            
-            home = Home(agency="vbt")
-            home.address = res["address"]["house"]
-            home.city = res["address"]["city"]
-            home.url = res["source"]["externalLink"]
-            home.price = int(res["prices"]["rental"]["price"])
-            home.geocode()
-            self.homes.append(home)
-            
-    def parse_alliantie(self, r):
-        results = json.loads(r.content)["data"]
-        
-        for res in results:
-            # Filter results not in selection because why the FUCK would you include
-            # parameters and then not actually use them in your FUCKING API
-            if not res["isInSelection"]:
-                continue
-                
-            home = Home(agency="alliantie")
-            home.address = res["address"]
-            # this is a dirty hack because what website with rental homes does not
-            # include the city AT ALL in their FUCKING API RESPONSES
-            city_start = res["url"].index('/') + 1
-            city_end = res["url"][city_start:].index('/') + city_start
-            home.city = res["url"][city_start:city_end].capitalize()
-            home.url = "https://ik-zoek.de-alliantie.nl/" + res["url"].replace(" ", "%20")
-            home.price = int(res["price"][2:].replace('.', ''))
-            home.geocode()
-            self.homes.append(home)
-            
-    def parse_woningnet(self, r):
-        # Woningnet has a habit of not returning JSON sometimes for some reason
-        try:
-            results = json.loads(r.content)["Resultaten"]
-        except:
-            return
-        
-        for res in results:
-            # Filter senior & family priority results
-            if res["WoningTypeCssClass"] == "Type03":
-                continue
-            
-            home = Home(agency="woningnet")
-            home.address = res["Adres"]
-            home.city = res["PlaatsWijk"].split('-')[0][:-1]
-            home.url = "https://www.woningnetregioamsterdam.nl" + res["AdvertentieUrl"]
-            home.price = int(res["Prijs"][2:-3].replace('.', ''))
-            home.geocode()
-            self.homes.append(home)
-            
-    def parse_bouwinvest(self, r):
-        results = json.loads(r.content)["data"]
-    
-        for res in results:
-            # Filter non-property results
-            if res["class"] == "Project":
-                continue
-    
-            home = Home(agency="bouwinvest")
-            home.address = res["name"]
-            home.city = res["address"]["city"]
-            home.url = res["url"]
-            home.price = int(res["price"]["price"])
-            home.geocode()
-            self.homes.append(home)
-    
-    def parse_krk(self, r):
-        results = json.loads(r.content)["objects"]
-    
-        for res in results:
-            # Filter non-rental and unavailable properties
-            if res["buy_or_rent"] != "rent" or res["availability_status"].lower() != "beschikbaar":
-                continue
-    
-            home = Home(agency="krk")
-            home.address = res["short_title"]
-            home.city = res["place"]
-            home.url = res["url"]
-            home.price = int(res["rent_price"])
-            self.homes.append(home)
-            
-    def parse_makelaarshuis(self, r):
-        results = BeautifulSoup(r.content, "html.parser").find_all("div", class_="object")
-    
-        for res in results:
-            # Filter rented properties
-            if 'rented' in str(res.find(class_="object_status")):
-                continue
-        
-            home = Home(agency="makelaarshuis")
-            home.address = str(res.find("span", class_="street").contents[0])
-            home.city = str(res.find("span", class_="locality").contents[0])
-            home.url = "https://yourexpatbroker.nl" + res.find("a", class_="saletitle")["href"].split('?')[0]
-            home.price = int(str(res.find("span", class_="obj_price").contents[0]).split('€')[1][1:6].split(',')[0].replace('.', ''))
-            home.geocode()
-            self.homes.append(home)
-            
-    def parse_pararius(self, r):
-        results = BeautifulSoup(r.content, "html.parser").find_all("section", class_="listing-search-item--for-rent")
-        
-        for res in results:
-        
-            home = Home(agency="pararius")
-            raw_address = str(res.find("a", class_="listing-search-item__link--title").contents[0].strip())
-        
-            # A lot of properties on Pararius don't include house numbers, so it's impossible to keep track of them because
-            # right now homes are tracked by address, not by URL (which has its own downsides).
-            # This is probably not 100% reliable either, but it's close enough.
-            if not re.search("[0-9]", raw_address):
-                continue
-            if re.search("^[0-9]", raw_address): # Filter "1e Foobarstraat", etc.
-                continue
-                
-            home.address = ' '.join(raw_address.split(' ')[1:]) # All items start with one of ["Appartement", "Huis", "Studio", "Kamer"]
-            raw_city = res.find("div", class_="listing-search-item__sub-title'").contents[0].strip()
-            home.city = ' '.join(raw_city.split(' ')[2:]).split('(')[0].strip() # Don't ask
-            home.url = "https://pararius.nl" + res.find("a", class_="listing-search-item__link--title")['href']
-            raw_price = res.find("div", class_="listing-search-item__price").contents[0].strip().replace('\xa0', '')
-
-            # If unable to cast to int, the price is not available so skip the listing
-            try:
-                home.price = int(raw_price[1:].split(' ')[0].replace('.', ''))
-            except:
-                continue
-            
-            home.geocode()
-
-            self.homes.append(home)
-            
-    def parse_funda(self, r):
-        results = json.loads(r.content)["search_result"]["hits"]["hits"]
-        
-        for res in results:
-            # Some listings don't have house numbers, so skip
-            if "house_number" not in res["_source"]["address"].keys():
-                logging.warning("Skipping a house without house number")
-                continue
-            # Some listings don't have a rent_price, skip as well
-            if "rent_price" not in res["_source"]["price"].keys():
-                logging.warning("Skipping a house without price")
-                continue
-        
-            home = Home(agency="funda")
-            
-            home.address = f"{res['_source']['address']['street_name']} {res['_source']['address']['house_number']}"
-            if "house_number_suffix" in res["_source"]["address"].keys():
-                suffix = res["_source"]["address"]["house_number_suffix"]
-                if '-' not in suffix and '+' not in suffix:
-                    suffix = f" {suffix}"
-                home.address += f"{suffix}"
-            
-            home.city = res["_source"]["address"]["city"]
-            home.url = "https://funda.nl" + res["_source"]["object_detail_page_relative_url"]
-            home.price = res["_source"]["price"]["rent_price"][0]
-            home.geocode()
-
-            self.homes.append(home)
-
-
-
-def query_db(query, params=[], fetchOne=False):
-# TODO error handling
-    db = psycopg2.connect(database=DB_DB,
-                            host=DB_HOST,
-                            user=DB_USER,
-                            password=DB_PASSWORD,
-                            port=DB_PORT)
-    
-    cursor = db.cursor(cursor_factory=RealDictCursor)
-    cursor.execute(query, params)
-    
-    # Try, because not all queries will return data
-    try:
-        if fetchOne:
-            result = cursor.fetchone()
-        else:
-            result = cursor.fetchall()
-    except:
-        result = None
-    
-    db.commit()
-    cursor.close()
-    db.close()
-    
-    return result
 
 def escape_markdownv2(text):
     text = text.replace('.', '\.')

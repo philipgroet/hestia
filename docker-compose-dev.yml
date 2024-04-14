@@ -17,8 +17,8 @@ services:
       test: cat /proc/1/cmdline || exit 1
       start_period: 5s
     environment:
-      - OWN_CHAT_ID=AAA
-      - TOKEN=AAA
+      - OWN_CHAT_ID=339864670
+      - TOKEN=6711524874:AAH59CrBKO1KtdNPpOWdoVX0R2fhwFPFFRk
       - DB_HOST=hestia-database-dev
       - DB_PORT=5432
       - DB_DB=hestia
@@ -31,8 +31,8 @@ services:
     networks: 
       - hestia-network-dev
     restart: unless-stopped
-    volumes:
-      - ./:/scraper
+    # volumes:
+    #   - ./:/scraper
     working_dir: /hestia
 
   hestia-scraper-dev:
@@ -41,8 +41,8 @@ services:
       test: pgrep cron || exit 1
       start_period: 5s
     environment:
-      - OWN_CHAT_ID=AAA
-      - TOKEN=AAA
+      - OWN_CHAT_ID=339864670
+      - TOKEN=6711524874:AAH59CrBKO1KtdNPpOWdoVX0R2fhwFPFFRk
       - DB_HOST=hestia-database-dev
       - DB_PORT=5432
       - DB_DB=hestia

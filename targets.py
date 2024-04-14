@@ -2,6 +2,7 @@ from abc import ABC, abstractmethod, abstractproperty
 import sys
 import json
 import logging
+import traceback
 from bs4 import BeautifulSoup
 import re
 import requests
@@ -44,27 +45,39 @@ class Target(ABC):
     return homes
 
   async def broadcast(self, homes):
-    subs = set()
+    subscribers = set()
     
     if hestia.check_dev_mode():
-        subs = hestia.query_db("SELECT * FROM subscribers WHERE subscription_expiry IS NOT NULL AND telegram_enabled = true AND user_level > 1")
+        subscribers = hestia.query_db("SELECT * FROM subscribers WHERE subscription_expiry IS NOT NULL AND telegram_enabled = true AND user_level > 1")
     else:
-        subs = hestia.query_db("SELECT * FROM subscribers WHERE subscription_expiry IS NOT NULL AND telegram_enabled = true")
+        subscribers = hestia.query_db("SELECT * FROM subscribers WHERE subscription_expiry IS NOT NULL AND telegram_enabled = true")
     
     messagesSent = 0
 
     for home in homes:
-        for sub in subs:
-            if home.price < sub["filter_min_price"] or home.price > sub["filter_max_price"]:
+        for subscriber in subscribers:
+            if home.price < subscriber["filter_min_price"] or home.price > subscriber["filter_max_price"]:
                 continue
             
-            if home.city.lower() not in sub["filter_cities"]:
+            if home.city.lower() not in subscriber["filter_cities"]:
                 continue
+            
+            # Lazy loading of property distances
+            if subscriber["filter_distance_to_center"] is not None:
+              try:
+                if home.distance_to_center is None:
+                  home.geocode()
+
+                if home.distance_to_center is not None and home.distance_to_center > subscriber["filter_distance_to_center"]:
+                  continue
+              except Exception as e:
+                  logging.warn(f"Could not find geocode info for home {home}, ignoring filter. {traceback.format_exc()}")
+                  home.distance_to_center = -1 # So that it is not looked up in next iter
             
             message = f"{hestia.HOUSE_EMOJI} {home.address}, {home.city}\n"
             message += f"{hestia.EURO_EMOJI} €{home.price}/m\n"
-            if home.distance_to_center:
-              message += f"Dist to center {home.distance_to_center} km\n\n"
+            if home.distance_to_center is not None and home.distance_to_center != -1:
+              message += f"Dist to center {round(home.distance_to_center, 2)} km\n\n"
             
             message = hestia.escape_markdownv2(message)
             
@@ -72,12 +85,12 @@ class Target(ABC):
             
             # If a user blocks the bot, this would throw an error and kill the entire broadcast
             try:
-                await hestia.BOT.send_message(text=message, chat_id=sub["telegram_id"], parse_mode="MarkdownV2")
+                await hestia.BOT.send_message(text=message, chat_id=subscriber["telegram_id"], parse_mode="MarkdownV2")
                 messagesSent += 1
             except:
                 pass
     
-    logging.debug(f"Broadcast {messagesSent} messages to {len(subs)} people")
+    logging.debug(f"Broadcast {messagesSent} messages to {len(subscribers)} people")
 
   def post(self, url, body, headers):
     r = requests.post(url, data=body, headers=headers)
@@ -1514,6 +1527,7 @@ class Spotmakelaardij(Target):
         home.city = str(res.find("span", class_="locality").get_text())
         home.price = float(res.find(class_="kenmerkValue").get_text().split(' ')[1].split(',')[0].replace('.', ''))
         home.url = base_url + res.find("a", class_="aanbodEntryLink")["href"]
+                
         homes.append(home)
       except:
         self.parseFailSingleHome(res)
@@ -1540,6 +1554,7 @@ class Vbtverhuurmakelaars(Target):
         home.city = str(res["address"]["city"])
         home.price = float(res["prices"]["rental"]["price"])
         home.url = base_url + res["url"]
+                
         homes.append(home)
       except:
         self.parseFailSingleHome(res)
@@ -1943,10 +1958,13 @@ class Makelaardijstek(Target):
       try:
         home = Home(agency=self.agency)
 
-        if "Nieuw in verhuur" not in res.find(class_="object_status").get_text():
+        status = res.find(class_="object_status")
+        if status is None:
+          continue
+        if "Nieuw in verhuur" not in status.get_text():
           continue
         
-        title = res.find(class_="object_address").find("h2").get_text().strip() # Te huur: Lauwerhof 25, 3512VD Utrecht
+        title = res.find(class_="obj_address").get_text().strip() # Te huur: Lauwerhof 25, 3512VD Utrecht
         title = title.split(": ")[1] # Lauwerhof 25, 3512VD Utrecht
 
         # Title is sometimes BEZICHTIGEN VOL - VIEWINGS FULL
@@ -1956,7 +1974,7 @@ class Makelaardijstek(Target):
         home.address = title.split(", ")[0]
         home.city = ' '.join(title.split(", ")[1].split(" ")[1:])
         home.price = float(res.find(class_="obj_price").get_text().strip().split(" ")[1].split(",")[0].replace(".", ""))
-        home.url = base_url + res.find(class_="object_address").find("a")['href']
+        home.url = base_url + res.find(class_="obj_address_container")['href']
 
         homes.append(home)
       except:

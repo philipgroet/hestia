@@ -22,13 +22,13 @@ services:
       - /root/hestia/data:/data
     working_dir: /hestia
     environment:
-      - OWN_CHAT_ID=AAA
-      - TOKEN=AAA
+      - OWN_CHAT_ID=339864670
+      - TOKEN=6746437607:AAGuzzNl7Q_VyBVDFMHnsMfOx9xT0moJATg
       - DB_HOST=hestia-database-dev
       - DB_PORT=5432
       - DB_DB=hestia
       - DB_USER=postgres
-      - DB_PASSWORD=AAA
+      - DB_PASSWORD=mysecretpassword
 
   hestia-scraper:
     container_name: hestia-scraper
@@ -43,13 +43,13 @@ services:
       - /root/hestia/data:/data
     working_dir: /scraper
     environment:
-      - OWN_CHAT_ID=AAA
-      - TOKEN=AAA
+      - OWN_CHAT_ID=339864670
+      - TOKEN=6746437607:AAGuzzNl7Q_VyBVDFMHnsMfOx9xT0moJATg
       - DB_HOST=hestia-database-dev
       - DB_PORT=5432
       - DB_DB=hestia
       - DB_USER=postgres
-      - DB_PASSWORD=AAA
+      - DB_PASSWORD=mysecretpassword
 
   hestia-database:
     container_name: hestia-database

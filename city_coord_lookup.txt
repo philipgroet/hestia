@@ -1,0 +1,1525 @@
+Getting coordinates for: Driehuis,%20Nederland, url: https://geocode.maps.co/search?q=Driehuis,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Alkmaar,%20Nederland, url: https://geocode.maps.co/search?q=Alkmaar,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Katwijk,%20Nederland, url: https://geocode.maps.co/search?q=Katwijk,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Vinkel%20(Gem.%20Den%20Bosch),%20Nederland, url: https://geocode.maps.co/search?q=Vinkel%20(Gem.%20Den%20Bosch),%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+No results found for the given address.
+Getting coordinates for: Teteringen,%20Nederland, url: https://geocode.maps.co/search?q=Teteringen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Buitenpost,%20Nederland, url: https://geocode.maps.co/search?q=Buitenpost,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Nijkerk,%20Nederland, url: https://geocode.maps.co/search?q=Nijkerk,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Oirschot,%20Nederland, url: https://geocode.maps.co/search?q=Oirschot,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Rotterdam%20-%20Centrum,%20Nederland, url: https://geocode.maps.co/search?q=Rotterdam%20-%20Centrum,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Garderen,%20Nederland, url: https://geocode.maps.co/search?q=Garderen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Doetinchem,%20Nederland, url: https://geocode.maps.co/search?q=Doetinchem,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Stevensweert,%20Nederland, url: https://geocode.maps.co/search?q=Stevensweert,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Nooitgedacht,%20Nederland, url: https://geocode.maps.co/search?q=Nooitgedacht,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Delden,%20Nederland, url: https://geocode.maps.co/search?q=Delden,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Den%20Ham,%20Nederland, url: https://geocode.maps.co/search?q=Den%20Ham,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Oss,%20Nederland, url: https://geocode.maps.co/search?q=Oss,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Haarsteeg,%20Nederland, url: https://geocode.maps.co/search?q=Haarsteeg,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Almelo,%20Nederland, url: https://geocode.maps.co/search?q=Almelo,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Veldhoven,%20Nederland, url: https://geocode.maps.co/search?q=Veldhoven,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Bunde,%20Nederland, url: https://geocode.maps.co/search?q=Bunde,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Doesburg,%20Nederland, url: https://geocode.maps.co/search?q=Doesburg,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Apeldoorn,%20Nederland, url: https://geocode.maps.co/search?q=Apeldoorn,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Laren,%20Nederland, url: https://geocode.maps.co/search?q=Laren,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Zutphen,%20Nederland, url: https://geocode.maps.co/search?q=Zutphen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Maartensdijk,%20Nederland, url: https://geocode.maps.co/search?q=Maartensdijk,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Stampersgat,%20Nederland, url: https://geocode.maps.co/search?q=Stampersgat,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Delfzijl,%20Nederland, url: https://geocode.maps.co/search?q=Delfzijl,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Hoogezand,%20Nederland, url: https://geocode.maps.co/search?q=Hoogezand,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Borne,%20Nederland, url: https://geocode.maps.co/search?q=Borne,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Vleuten,%20Nederland, url: https://geocode.maps.co/search?q=Vleuten,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Dussen,%20Nederland, url: https://geocode.maps.co/search?q=Dussen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Wagenberg,%20Nederland, url: https://geocode.maps.co/search?q=Wagenberg,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Warnsveld,%20Nederland, url: https://geocode.maps.co/search?q=Warnsveld,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: de%20Lutte,%20Nederland, url: https://geocode.maps.co/search?q=de%20Lutte,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Boxtel,%20Nederland, url: https://geocode.maps.co/search?q=Boxtel,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Nieuwerkerk,%20Nederland, url: https://geocode.maps.co/search?q=Nieuwerkerk,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Dordrecht,%20Nederland, url: https://geocode.maps.co/search?q=Dordrecht,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Zierikzee,%20Nederland, url: https://geocode.maps.co/search?q=Zierikzee,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Zoutkamp,%20Nederland, url: https://geocode.maps.co/search?q=Zoutkamp,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Posterholt,%20Nederland, url: https://geocode.maps.co/search?q=Posterholt,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Driehuis%20NH,%20Nederland, url: https://geocode.maps.co/search?q=Driehuis%20NH,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Bovenkarspel,%20Nederland, url: https://geocode.maps.co/search?q=Bovenkarspel,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Oosterhout,%20Nederland, url: https://geocode.maps.co/search?q=Oosterhout,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Culemborg,%20Nederland, url: https://geocode.maps.co/search?q=Culemborg,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Wierden,%20Nederland, url: https://geocode.maps.co/search?q=Wierden,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Bunschoten-Spakenburg,%20Nederland, url: https://geocode.maps.co/search?q=Bunschoten-Spakenburg,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Bolsward,%20Nederland, url: https://geocode.maps.co/search?q=Bolsward,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Nieuwveen,%20Nederland, url: https://geocode.maps.co/search?q=Nieuwveen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Sint%20Anthonis,%20Nederland, url: https://geocode.maps.co/search?q=Sint%20Anthonis,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Beverwijk,%20Nederland, url: https://geocode.maps.co/search?q=Beverwijk,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Nieuwerkerk%20aan%20den%20IJssel,%20Nederland, url: https://geocode.maps.co/search?q=Nieuwerkerk%20aan%20den%20IJssel,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Haren,%20Nederland, url: https://geocode.maps.co/search?q=Haren,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Zuiderwoude,%20Nederland, url: https://geocode.maps.co/search?q=Zuiderwoude,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Hapert,%20Nederland, url: https://geocode.maps.co/search?q=Hapert,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Neede,%20Nederland, url: https://geocode.maps.co/search?q=Neede,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Rijen,%20Nederland, url: https://geocode.maps.co/search?q=Rijen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Venray,%20Nederland, url: https://geocode.maps.co/search?q=Venray,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Berlicum,%20Nederland, url: https://geocode.maps.co/search?q=Berlicum,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Otterlo,%20Nederland, url: https://geocode.maps.co/search?q=Otterlo,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Montfort,%20Nederland, url: https://geocode.maps.co/search?q=Montfort,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Gouda,%20Nederland, url: https://geocode.maps.co/search?q=Gouda,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Ulvenhout,%20Nederland, url: https://geocode.maps.co/search?q=Ulvenhout,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Wolvega,%20Nederland, url: https://geocode.maps.co/search?q=Wolvega,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Nederweert,%20Nederland, url: https://geocode.maps.co/search?q=Nederweert,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Oostburg,%20Nederland, url: https://geocode.maps.co/search?q=Oostburg,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Hardenberg,%20Nederland, url: https://geocode.maps.co/search?q=Hardenberg,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Zwolle,%20Nederland, url: https://geocode.maps.co/search?q=Zwolle,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Schoonhoven,%20Nederland, url: https://geocode.maps.co/search?q=Schoonhoven,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Ochten,%20Nederland, url: https://geocode.maps.co/search?q=Ochten,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Sprang-Capelle,%20Nederland, url: https://geocode.maps.co/search?q=Sprang-Capelle,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Bodegraven,%20Nederland, url: https://geocode.maps.co/search?q=Bodegraven,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Zuidoostbeemster,%20Nederland, url: https://geocode.maps.co/search?q=Zuidoostbeemster,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Offingawier,%20Nederland, url: https://geocode.maps.co/search?q=Offingawier,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Uden,%20Nederland, url: https://geocode.maps.co/search?q=Uden,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Den%20Haag,%20Nederland, url: https://geocode.maps.co/search?q=Den%20Haag,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Eede,%20Nederland, url: https://geocode.maps.co/search?q=Eede,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Zeewolde,%20Nederland, url: https://geocode.maps.co/search?q=Zeewolde,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Maarheeze,%20Nederland, url: https://geocode.maps.co/search?q=Maarheeze,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Ootmarsum,%20Nederland, url: https://geocode.maps.co/search?q=Ootmarsum,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Den%20Bosch,%20Nederland, url: https://geocode.maps.co/search?q=Den%20Bosch,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Tilburg,%20Nederland, url: https://geocode.maps.co/search?q=Tilburg,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Hippolytushoef,%20Nederland, url: https://geocode.maps.co/search?q=Hippolytushoef,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Poeldijk,%20Nederland, url: https://geocode.maps.co/search?q=Poeldijk,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Riethoven,%20Nederland, url: https://geocode.maps.co/search?q=Riethoven,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Zaltbommel,%20Nederland, url: https://geocode.maps.co/search?q=Zaltbommel,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Wormer,%20Nederland, url: https://geocode.maps.co/search?q=Wormer,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Bitgum,%20Nederland, url: https://geocode.maps.co/search?q=Bitgum,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Harmelen,%20Nederland, url: https://geocode.maps.co/search?q=Harmelen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Muiderberg,%20Nederland, url: https://geocode.maps.co/search?q=Muiderberg,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Sas%20van%20Gent,%20Nederland, url: https://geocode.maps.co/search?q=Sas%20van%20Gent,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Huissen,%20Nederland, url: https://geocode.maps.co/search?q=Huissen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Tolbert,%20Nederland, url: https://geocode.maps.co/search?q=Tolbert,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Waalwijk,%20Nederland, url: https://geocode.maps.co/search?q=Waalwijk,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Egmond%20aan%20den%20Hoef,%20Nederland, url: https://geocode.maps.co/search?q=Egmond%20aan%20den%20Hoef,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Akersloot,%20Nederland, url: https://geocode.maps.co/search?q=Akersloot,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: 's-Heerenberg,%20Nederland, url: https://geocode.maps.co/search?q='s-Heerenberg,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Oudenbosch,%20Nederland, url: https://geocode.maps.co/search?q=Oudenbosch,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Tegelen,%20Nederland, url: https://geocode.maps.co/search?q=Tegelen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Hoogvliet%20Rotterdam,%20Nederland, url: https://geocode.maps.co/search?q=Hoogvliet%20Rotterdam,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Huis%20ter%20heide,%20Nederland, url: https://geocode.maps.co/search?q=Huis%20ter%20heide,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Klundert,%20Nederland, url: https://geocode.maps.co/search?q=Klundert,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Hoensbroek,%20Nederland, url: https://geocode.maps.co/search?q=Hoensbroek,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Kollum,%20Nederland, url: https://geocode.maps.co/search?q=Kollum,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Stein,%20Nederland, url: https://geocode.maps.co/search?q=Stein,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Delft,%20Nederland, url: https://geocode.maps.co/search?q=Delft,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Westervoort,%20Nederland, url: https://geocode.maps.co/search?q=Westervoort,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Hezingen,%20Nederland, url: https://geocode.maps.co/search?q=Hezingen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Spaarndam,%20Nederland, url: https://geocode.maps.co/search?q=Spaarndam,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Ravenstein,%20Nederland, url: https://geocode.maps.co/search?q=Ravenstein,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Rotterdam%20Charlois,%20Nederland, url: https://geocode.maps.co/search?q=Rotterdam%20Charlois,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Steenwijk,%20Nederland, url: https://geocode.maps.co/search?q=Steenwijk,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Diepenheim,%20Nederland, url: https://geocode.maps.co/search?q=Diepenheim,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Noordwijk,%20Nederland, url: https://geocode.maps.co/search?q=Noordwijk,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Helmond,%20Nederland, url: https://geocode.maps.co/search?q=Helmond,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Makkum,%20Nederland, url: https://geocode.maps.co/search?q=Makkum,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Rotterdam%20Centrum,%20Nederland, url: https://geocode.maps.co/search?q=Rotterdam%20Centrum,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Lochem,%20Nederland, url: https://geocode.maps.co/search?q=Lochem,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Winssen,%20Nederland, url: https://geocode.maps.co/search?q=Winssen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Breukelen,%20Nederland, url: https://geocode.maps.co/search?q=Breukelen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Amsterdam%20-%20Nieuw-West,%20Nederland, url: https://geocode.maps.co/search?q=Amsterdam%20-%20Nieuw-West,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Volendam,%20Nederland, url: https://geocode.maps.co/search?q=Volendam,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Oudewater,%20Nederland, url: https://geocode.maps.co/search?q=Oudewater,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Appingedam,%20Nederland, url: https://geocode.maps.co/search?q=Appingedam,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Zuidlaren,%20Nederland, url: https://geocode.maps.co/search?q=Zuidlaren,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Houten,%20Nederland, url: https://geocode.maps.co/search?q=Houten,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Drunen,%20Nederland, url: https://geocode.maps.co/search?q=Drunen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Middelburg,%20Nederland, url: https://geocode.maps.co/search?q=Middelburg,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Warmond,%20Nederland, url: https://geocode.maps.co/search?q=Warmond,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Winterswijk%20Corle,%20Nederland, url: https://geocode.maps.co/search?q=Winterswijk%20Corle,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Reuver,%20Nederland, url: https://geocode.maps.co/search?q=Reuver,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Bladel,%20Nederland, url: https://geocode.maps.co/search?q=Bladel,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Heythuysen,%20Nederland, url: https://geocode.maps.co/search?q=Heythuysen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Woensdrecht,%20Nederland, url: https://geocode.maps.co/search?q=Woensdrecht,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Heesch,%20Nederland, url: https://geocode.maps.co/search?q=Heesch,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Pijnacker,%20Nederland, url: https://geocode.maps.co/search?q=Pijnacker,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Moordrecht,%20Nederland, url: https://geocode.maps.co/search?q=Moordrecht,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Langbroek,%20Nederland, url: https://geocode.maps.co/search?q=Langbroek,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Kudelstaart,%20Nederland, url: https://geocode.maps.co/search?q=Kudelstaart,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Burgum,%20Nederland, url: https://geocode.maps.co/search?q=Burgum,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Denekamp,%20Nederland, url: https://geocode.maps.co/search?q=Denekamp,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Leersum,%20Nederland, url: https://geocode.maps.co/search?q=Leersum,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Velp,%20Nederland, url: https://geocode.maps.co/search?q=Velp,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Goingarijp,%20Nederland, url: https://geocode.maps.co/search?q=Goingarijp,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Eelde,%20Nederland, url: https://geocode.maps.co/search?q=Eelde,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Sneek,%20Nederland, url: https://geocode.maps.co/search?q=Sneek,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Nietap,%20Nederland, url: https://geocode.maps.co/search?q=Nietap,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Meerkerk,%20Nederland, url: https://geocode.maps.co/search?q=Meerkerk,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Siddeburen,%20Nederland, url: https://geocode.maps.co/search?q=Siddeburen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Lunteren,%20Nederland, url: https://geocode.maps.co/search?q=Lunteren,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Muiden,%20Nederland, url: https://geocode.maps.co/search?q=Muiden,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Purmerland,%20Nederland, url: https://geocode.maps.co/search?q=Purmerland,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Boelenslaan,%20Nederland, url: https://geocode.maps.co/search?q=Boelenslaan,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Heeze,%20Nederland, url: https://geocode.maps.co/search?q=Heeze,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Meerssen,%20Nederland, url: https://geocode.maps.co/search?q=Meerssen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Driehuizen,%20Nederland, url: https://geocode.maps.co/search?q=Driehuizen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Holwerd,%20Nederland, url: https://geocode.maps.co/search?q=Holwerd,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Lisse,%20Nederland, url: https://geocode.maps.co/search?q=Lisse,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Hoogerheide,%20Nederland, url: https://geocode.maps.co/search?q=Hoogerheide,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Wieringerwerf,%20Nederland, url: https://geocode.maps.co/search?q=Wieringerwerf,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Schoorl,%20Nederland, url: https://geocode.maps.co/search?q=Schoorl,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Vriezenveen,%20Nederland, url: https://geocode.maps.co/search?q=Vriezenveen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Sint-Annaland,%20Nederland, url: https://geocode.maps.co/search?q=Sint-Annaland,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Bornerbroek,%20Nederland, url: https://geocode.maps.co/search?q=Bornerbroek,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Aardenburg,%20Nederland, url: https://geocode.maps.co/search?q=Aardenburg,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Ede,%20Nederland, url: https://geocode.maps.co/search?q=Ede,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Zuidvelde,%20Nederland, url: https://geocode.maps.co/search?q=Zuidvelde,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Driel,%20Nederland, url: https://geocode.maps.co/search?q=Driel,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Rijsbergen,%20Nederland, url: https://geocode.maps.co/search?q=Rijsbergen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: IJmuiden,%20Nederland, url: https://geocode.maps.co/search?q=IJmuiden,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Vinkeveen,%20Nederland, url: https://geocode.maps.co/search?q=Vinkeveen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: IJsselstein,%20Nederland, url: https://geocode.maps.co/search?q=IJsselstein,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Winschoten,%20Nederland, url: https://geocode.maps.co/search?q=Winschoten,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Nunspeet,%20Nederland, url: https://geocode.maps.co/search?q=Nunspeet,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Kerkrade,%20Nederland, url: https://geocode.maps.co/search?q=Kerkrade,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Hilversum,%20Nederland, url: https://geocode.maps.co/search?q=Hilversum,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Egmond-Binnen,%20Nederland, url: https://geocode.maps.co/search?q=Egmond-Binnen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Berghem,%20Nederland, url: https://geocode.maps.co/search?q=Berghem,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Olst,%20Nederland, url: https://geocode.maps.co/search?q=Olst,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Grave,%20Nederland, url: https://geocode.maps.co/search?q=Grave,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Aerdenhout,%20Nederland, url: https://geocode.maps.co/search?q=Aerdenhout,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Oudkarspel%20(Gem.%20Dijk%20en%20Waard),%20Nederland, url: https://geocode.maps.co/search?q=Oudkarspel%20(Gem.%20Dijk%20en%20Waard),%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+No results found for the given address.
+Getting coordinates for: Oppenhuizen,%20Nederland, url: https://geocode.maps.co/search?q=Oppenhuizen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Eijsden,%20Nederland, url: https://geocode.maps.co/search?q=Eijsden,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Stavenisse,%20Nederland, url: https://geocode.maps.co/search?q=Stavenisse,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Appelscha,%20Nederland, url: https://geocode.maps.co/search?q=Appelscha,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Cadzand,%20Nederland, url: https://geocode.maps.co/search?q=Cadzand,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Hendrik-%20ido-ambacht,%20Nederland, url: https://geocode.maps.co/search?q=Hendrik-%20ido-ambacht,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Serooskerke%20(Gem.%20Veere),%20Nederland, url: https://geocode.maps.co/search?q=Serooskerke%20(Gem.%20Veere),%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+No results found for the given address.
+Getting coordinates for: Mijnsheerenland,%20Nederland, url: https://geocode.maps.co/search?q=Mijnsheerenland,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Haaksbergen,%20Nederland, url: https://geocode.maps.co/search?q=Haaksbergen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Wijchen,%20Nederland, url: https://geocode.maps.co/search?q=Wijchen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Den%20Burg,%20Nederland, url: https://geocode.maps.co/search?q=Den%20Burg,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Den%20Dungen,%20Nederland, url: https://geocode.maps.co/search?q=Den%20Dungen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Zuidwolde,%20Nederland, url: https://geocode.maps.co/search?q=Zuidwolde,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Bennekom,%20Nederland, url: https://geocode.maps.co/search?q=Bennekom,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Breskens,%20Nederland, url: https://geocode.maps.co/search?q=Breskens,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Amsterdam%20-%20Oost,%20Nederland, url: https://geocode.maps.co/search?q=Amsterdam%20-%20Oost,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Moergestel,%20Nederland, url: https://geocode.maps.co/search?q=Moergestel,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Zoelen,%20Nederland, url: https://geocode.maps.co/search?q=Zoelen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Heemskerk,%20Nederland, url: https://geocode.maps.co/search?q=Heemskerk,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Oosterbeek,%20Nederland, url: https://geocode.maps.co/search?q=Oosterbeek,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Tienray,%20Nederland, url: https://geocode.maps.co/search?q=Tienray,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Brielle,%20Nederland, url: https://geocode.maps.co/search?q=Brielle,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Cothen,%20Nederland, url: https://geocode.maps.co/search?q=Cothen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Zevenhuizen,%20Nederland, url: https://geocode.maps.co/search?q=Zevenhuizen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Meppel,%20Nederland, url: https://geocode.maps.co/search?q=Meppel,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Lutjegast,%20Nederland, url: https://geocode.maps.co/search?q=Lutjegast,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Berg%20en%20Terblijt,%20Nederland, url: https://geocode.maps.co/search?q=Berg%20en%20Terblijt,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Zwijndrecht,%20Nederland, url: https://geocode.maps.co/search?q=Zwijndrecht,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Varsseveld,%20Nederland, url: https://geocode.maps.co/search?q=Varsseveld,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Uitgeest,%20Nederland, url: https://geocode.maps.co/search?q=Uitgeest,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Hazerswoude-Dorp,%20Nederland, url: https://geocode.maps.co/search?q=Hazerswoude-Dorp,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Westbeemster,%20Nederland, url: https://geocode.maps.co/search?q=Westbeemster,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Schalkhaar,%20Nederland, url: https://geocode.maps.co/search?q=Schalkhaar,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Geleen,%20Nederland, url: https://geocode.maps.co/search?q=Geleen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Einighausen,%20Nederland, url: https://geocode.maps.co/search?q=Einighausen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Luyksgestel,%20Nederland, url: https://geocode.maps.co/search?q=Luyksgestel,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Woerden,%20Nederland, url: https://geocode.maps.co/search?q=Woerden,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Ureterp,%20Nederland, url: https://geocode.maps.co/search?q=Ureterp,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Spanbroek,%20Nederland, url: https://geocode.maps.co/search?q=Spanbroek,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Maasbracht,%20Nederland, url: https://geocode.maps.co/search?q=Maasbracht,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Sint-Oedenrode,%20Nederland, url: https://geocode.maps.co/search?q=Sint-Oedenrode,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Scheemda,%20Nederland, url: https://geocode.maps.co/search?q=Scheemda,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Gennep,%20Nederland, url: https://geocode.maps.co/search?q=Gennep,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Est,%20Nederland, url: https://geocode.maps.co/search?q=Est,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Leens,%20Nederland, url: https://geocode.maps.co/search?q=Leens,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Heinkenszand,%20Nederland, url: https://geocode.maps.co/search?q=Heinkenszand,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Zandvoort,%20Nederland, url: https://geocode.maps.co/search?q=Zandvoort,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Terheijden,%20Nederland, url: https://geocode.maps.co/search?q=Terheijden,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: 's-Gravenzande,%20Nederland, url: https://geocode.maps.co/search?q='s-Gravenzande,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Westendorp,%20Nederland, url: https://geocode.maps.co/search?q=Westendorp,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Dalfsen,%20Nederland, url: https://geocode.maps.co/search?q=Dalfsen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Hoenderloo%20(Gem.%20Apeldoorn),%20Nederland, url: https://geocode.maps.co/search?q=Hoenderloo%20(Gem.%20Apeldoorn),%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+No results found for the given address.
+Getting coordinates for: Ospel,%20Nederland, url: https://geocode.maps.co/search?q=Ospel,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Callantsoog,%20Nederland, url: https://geocode.maps.co/search?q=Callantsoog,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Heerlen,%20Nederland, url: https://geocode.maps.co/search?q=Heerlen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Gronsveld,%20Nederland, url: https://geocode.maps.co/search?q=Gronsveld,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Wageningen,%20Nederland, url: https://geocode.maps.co/search?q=Wageningen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Ter%20Aar,%20Nederland, url: https://geocode.maps.co/search?q=Ter%20Aar,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Breda,%20Nederland, url: https://geocode.maps.co/search?q=Breda,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Haelen,%20Nederland, url: https://geocode.maps.co/search?q=Haelen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: De%20Rijp,%20Nederland, url: https://geocode.maps.co/search?q=De%20Rijp,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Groningen,%20Nederland, url: https://geocode.maps.co/search?q=Groningen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Schoondijke,%20Nederland, url: https://geocode.maps.co/search?q=Schoondijke,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Vlodrop,%20Nederland, url: https://geocode.maps.co/search?q=Vlodrop,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Roosendaal,%20Nederland, url: https://geocode.maps.co/search?q=Roosendaal,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Broekhuizenvorst,%20Nederland, url: https://geocode.maps.co/search?q=Broekhuizenvorst,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Overdinkel,%20Nederland, url: https://geocode.maps.co/search?q=Overdinkel,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Asten,%20Nederland, url: https://geocode.maps.co/search?q=Asten,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Bad%20Nieuweschans,%20Nederland, url: https://geocode.maps.co/search?q=Bad%20Nieuweschans,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Macharen,%20Nederland, url: https://geocode.maps.co/search?q=Macharen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Noord-Scharwoude,%20Nederland, url: https://geocode.maps.co/search?q=Noord-Scharwoude,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Nijkerkerveen,%20Nederland, url: https://geocode.maps.co/search?q=Nijkerkerveen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Scherpenzeel,%20Nederland, url: https://geocode.maps.co/search?q=Scherpenzeel,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Winsum,%20Nederland, url: https://geocode.maps.co/search?q=Winsum,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Roermond,%20Nederland, url: https://geocode.maps.co/search?q=Roermond,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Huis%20ter%20Heide,%20Nederland, url: https://geocode.maps.co/search?q=Huis%20ter%20Heide,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Sappemeer,%20Nederland, url: https://geocode.maps.co/search?q=Sappemeer,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Losser,%20Nederland, url: https://geocode.maps.co/search?q=Losser,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Waalre,%20Nederland, url: https://geocode.maps.co/search?q=Waalre,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Lisserbroek,%20Nederland, url: https://geocode.maps.co/search?q=Lisserbroek,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Sluis,%20Nederland, url: https://geocode.maps.co/search?q=Sluis,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Bussum,%20Nederland, url: https://geocode.maps.co/search?q=Bussum,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Franeker,%20Nederland, url: https://geocode.maps.co/search?q=Franeker,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Nieuwegein,%20Nederland, url: https://geocode.maps.co/search?q=Nieuwegein,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Rijswijk,%20Nederland, url: https://geocode.maps.co/search?q=Rijswijk,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Kloetinge,%20Nederland, url: https://geocode.maps.co/search?q=Kloetinge,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Rotterdam%20-%20Charlois,%20Nederland, url: https://geocode.maps.co/search?q=Rotterdam%20-%20Charlois,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Berkel%20en%20Rodenrijs,%20Nederland, url: https://geocode.maps.co/search?q=Berkel%20en%20Rodenrijs,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Zwanenburg,%20Nederland, url: https://geocode.maps.co/search?q=Zwanenburg,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Eindhoven,%20Nederland, url: https://geocode.maps.co/search?q=Eindhoven,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Kaatsheuvel,%20Nederland, url: https://geocode.maps.co/search?q=Kaatsheuvel,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Oostzaan,%20Nederland, url: https://geocode.maps.co/search?q=Oostzaan,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Gulpen,%20Nederland, url: https://geocode.maps.co/search?q=Gulpen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Kortenhoef,%20Nederland, url: https://geocode.maps.co/search?q=Kortenhoef,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Herwijnen,%20Nederland, url: https://geocode.maps.co/search?q=Herwijnen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Vreeland,%20Nederland, url: https://geocode.maps.co/search?q=Vreeland,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Eemnes,%20Nederland, url: https://geocode.maps.co/search?q=Eemnes,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Maarssenbroek,%20Nederland, url: https://geocode.maps.co/search?q=Maarssenbroek,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Rhenen,%20Nederland, url: https://geocode.maps.co/search?q=Rhenen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: De%20Zilk,%20Nederland, url: https://geocode.maps.co/search?q=De%20Zilk,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Dronten,%20Nederland, url: https://geocode.maps.co/search?q=Dronten,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Oud-Beijerland,%20Nederland, url: https://geocode.maps.co/search?q=Oud-Beijerland,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Renswoude,%20Nederland, url: https://geocode.maps.co/search?q=Renswoude,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Molenhoek%20lb,%20Nederland, url: https://geocode.maps.co/search?q=Molenhoek%20lb,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Horn,%20Nederland, url: https://geocode.maps.co/search?q=Horn,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Kortgene,%20Nederland, url: https://geocode.maps.co/search?q=Kortgene,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Epe,%20Nederland, url: https://geocode.maps.co/search?q=Epe,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: NIEUWEGEIN,%20Nederland, url: https://geocode.maps.co/search?q=NIEUWEGEIN,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Ens,%20Nederland, url: https://geocode.maps.co/search?q=Ens,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: 's-Gravendeel,%20Nederland, url: https://geocode.maps.co/search?q='s-Gravendeel,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Wilnis,%20Nederland, url: https://geocode.maps.co/search?q=Wilnis,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Utrecht,%20Nederland, url: https://geocode.maps.co/search?q=Utrecht,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Lemmer,%20Nederland, url: https://geocode.maps.co/search?q=Lemmer,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Zuid-Scharwoude,%20Nederland, url: https://geocode.maps.co/search?q=Zuid-Scharwoude,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Cruquius,%20Nederland, url: https://geocode.maps.co/search?q=Cruquius,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Bemmel,%20Nederland, url: https://geocode.maps.co/search?q=Bemmel,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Zetten,%20Nederland, url: https://geocode.maps.co/search?q=Zetten,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: AMERSFOORT,%20Nederland, url: https://geocode.maps.co/search?q=AMERSFOORT,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Zwaag,%20Nederland, url: https://geocode.maps.co/search?q=Zwaag,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Den%20Ilp,%20Nederland, url: https://geocode.maps.co/search?q=Den%20Ilp,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Markelo,%20Nederland, url: https://geocode.maps.co/search?q=Markelo,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Leende,%20Nederland, url: https://geocode.maps.co/search?q=Leende,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Oostkapelle,%20Nederland, url: https://geocode.maps.co/search?q=Oostkapelle,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Wijk%20en%20Aalburg,%20Nederland, url: https://geocode.maps.co/search?q=Wijk%20en%20Aalburg,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Amsterdam%20-%20West,%20Nederland, url: https://geocode.maps.co/search?q=Amsterdam%20-%20West,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: De%20Kwakel,%20Nederland, url: https://geocode.maps.co/search?q=De%20Kwakel,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Esbeek,%20Nederland, url: https://geocode.maps.co/search?q=Esbeek,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Diepenveen,%20Nederland, url: https://geocode.maps.co/search?q=Diepenveen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Beek%20en%20Donk,%20Nederland, url: https://geocode.maps.co/search?q=Beek%20en%20Donk,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Ouderkerk%20aan%20de%20Amstel,%20Nederland, url: https://geocode.maps.co/search?q=Ouderkerk%20aan%20de%20Amstel,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Hoek,%20Nederland, url: https://geocode.maps.co/search?q=Hoek,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Overloon,%20Nederland, url: https://geocode.maps.co/search?q=Overloon,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Putte,%20Nederland, url: https://geocode.maps.co/search?q=Putte,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Epse,%20Nederland, url: https://geocode.maps.co/search?q=Epse,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Rotterdam%20Kralingen,%20Nederland, url: https://geocode.maps.co/search?q=Rotterdam%20Kralingen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Goirle,%20Nederland, url: https://geocode.maps.co/search?q=Goirle,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Amsterdam%20-%20Centrum,%20Nederland, url: https://geocode.maps.co/search?q=Amsterdam%20-%20Centrum,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Den%20Dolder,%20Nederland, url: https://geocode.maps.co/search?q=Den%20Dolder,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Almere,%20Nederland, url: https://geocode.maps.co/search?q=Almere,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Aalsmeer,%20Nederland, url: https://geocode.maps.co/search?q=Aalsmeer,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Hooglanderveen,%20Nederland, url: https://geocode.maps.co/search?q=Hooglanderveen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Harderwijk,%20Nederland, url: https://geocode.maps.co/search?q=Harderwijk,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Koudekerk%20aan%20den%20Rijn,%20Nederland, url: https://geocode.maps.co/search?q=Koudekerk%20aan%20den%20Rijn,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Bedum,%20Nederland, url: https://geocode.maps.co/search?q=Bedum,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Best,%20Nederland, url: https://geocode.maps.co/search?q=Best,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Werkhoven,%20Nederland, url: https://geocode.maps.co/search?q=Werkhoven,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Rozendaal,%20Nederland, url: https://geocode.maps.co/search?q=Rozendaal,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Beek,%20Nederland, url: https://geocode.maps.co/search?q=Beek,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Monnickendam,%20Nederland, url: https://geocode.maps.co/search?q=Monnickendam,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Zwaagdijk-Oost,%20Nederland, url: https://geocode.maps.co/search?q=Zwaagdijk-Oost,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Geldrop,%20Nederland, url: https://geocode.maps.co/search?q=Geldrop,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Roggel,%20Nederland, url: https://geocode.maps.co/search?q=Roggel,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Kelpen-Oler,%20Nederland, url: https://geocode.maps.co/search?q=Kelpen-Oler,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Vijfhuizen,%20Nederland, url: https://geocode.maps.co/search?q=Vijfhuizen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Kwadijk,%20Nederland, url: https://geocode.maps.co/search?q=Kwadijk,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Kamperland,%20Nederland, url: https://geocode.maps.co/search?q=Kamperland,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Oudorp,%20Nederland, url: https://geocode.maps.co/search?q=Oudorp,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Leusden,%20Nederland, url: https://geocode.maps.co/search?q=Leusden,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Bruinisse,%20Nederland, url: https://geocode.maps.co/search?q=Bruinisse,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Groede,%20Nederland, url: https://geocode.maps.co/search?q=Groede,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Herten,%20Nederland, url: https://geocode.maps.co/search?q=Herten,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Voorburg,%20Nederland, url: https://geocode.maps.co/search?q=Voorburg,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Sexbierum,%20Nederland, url: https://geocode.maps.co/search?q=Sexbierum,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Sittard,%20Nederland, url: https://geocode.maps.co/search?q=Sittard,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Nieuwersluis,%20Nederland, url: https://geocode.maps.co/search?q=Nieuwersluis,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Kerk-Avezaath%20(Gem.%20Buren),%20Nederland, url: https://geocode.maps.co/search?q=Kerk-Avezaath%20(Gem.%20Buren),%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+No results found for the given address.
+Getting coordinates for: Dedemsvaart,%20Nederland, url: https://geocode.maps.co/search?q=Dedemsvaart,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Putten,%20Nederland, url: https://geocode.maps.co/search?q=Putten,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Abcoude,%20Nederland, url: https://geocode.maps.co/search?q=Abcoude,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Anna%20Paulowna,%20Nederland, url: https://geocode.maps.co/search?q=Anna%20Paulowna,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Hattemerbroek,%20Nederland, url: https://geocode.maps.co/search?q=Hattemerbroek,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Goes,%20Nederland, url: https://geocode.maps.co/search?q=Goes,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Krimpen%20aan%20den%20IJssel,%20Nederland, url: https://geocode.maps.co/search?q=Krimpen%20aan%20den%20IJssel,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Rouveen,%20Nederland, url: https://geocode.maps.co/search?q=Rouveen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Zeist,%20Nederland, url: https://geocode.maps.co/search?q=Zeist,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Musselkanaal,%20Nederland, url: https://geocode.maps.co/search?q=Musselkanaal,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Hoorn,%20Nederland, url: https://geocode.maps.co/search?q=Hoorn,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Heino,%20Nederland, url: https://geocode.maps.co/search?q=Heino,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Schaijk,%20Nederland, url: https://geocode.maps.co/search?q=Schaijk,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Bunnik,%20Nederland, url: https://geocode.maps.co/search?q=Bunnik,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Zoetermeer,%20Nederland, url: https://geocode.maps.co/search?q=Zoetermeer,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Wijk%20bij%20Duurstede,%20Nederland, url: https://geocode.maps.co/search?q=Wijk%20bij%20Duurstede,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Sliedrecht,%20Nederland, url: https://geocode.maps.co/search?q=Sliedrecht,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Kessel,%20Nederland, url: https://geocode.maps.co/search?q=Kessel,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Loenen%20aan%20de%20Vecht,%20Nederland, url: https://geocode.maps.co/search?q=Loenen%20aan%20de%20Vecht,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Gieten,%20Nederland, url: https://geocode.maps.co/search?q=Gieten,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Westerland,%20Nederland, url: https://geocode.maps.co/search?q=Westerland,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Middenbeemster,%20Nederland, url: https://geocode.maps.co/search?q=Middenbeemster,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Voorthuizen,%20Nederland, url: https://geocode.maps.co/search?q=Voorthuizen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Groesbeek,%20Nederland, url: https://geocode.maps.co/search?q=Groesbeek,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Gameren,%20Nederland, url: https://geocode.maps.co/search?q=Gameren,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Beilen,%20Nederland, url: https://geocode.maps.co/search?q=Beilen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Montfoort,%20Nederland, url: https://geocode.maps.co/search?q=Montfoort,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Bourtange,%20Nederland, url: https://geocode.maps.co/search?q=Bourtange,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Hoef%20en%20Haag,%20Nederland, url: https://geocode.maps.co/search?q=Hoef%20en%20Haag,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Hilvarenbeek,%20Nederland, url: https://geocode.maps.co/search?q=Hilvarenbeek,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: De%20Bilt,%20Nederland, url: https://geocode.maps.co/search?q=De%20Bilt,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Nieuw-Vennep,%20Nederland, url: https://geocode.maps.co/search?q=Nieuw-Vennep,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Deventer,%20Nederland, url: https://geocode.maps.co/search?q=Deventer,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Hoogland,%20Nederland, url: https://geocode.maps.co/search?q=Hoogland,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Warmenhuizen,%20Nederland, url: https://geocode.maps.co/search?q=Warmenhuizen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Groenlo,%20Nederland, url: https://geocode.maps.co/search?q=Groenlo,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Bavel,%20Nederland, url: https://geocode.maps.co/search?q=Bavel,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Vlissingen,%20Nederland, url: https://geocode.maps.co/search?q=Vlissingen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Liempde,%20Nederland, url: https://geocode.maps.co/search?q=Liempde,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Den%20dolder,%20Nederland, url: https://geocode.maps.co/search?q=Den%20dolder,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Oude%20Pekela,%20Nederland, url: https://geocode.maps.co/search?q=Oude%20Pekela,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Bleiswijk,%20Nederland, url: https://geocode.maps.co/search?q=Bleiswijk,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Woudsend,%20Nederland, url: https://geocode.maps.co/search?q=Woudsend,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Rohel,%20Nederland, url: https://geocode.maps.co/search?q=Rohel,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Maassluis,%20Nederland, url: https://geocode.maps.co/search?q=Maassluis,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Druten,%20Nederland, url: https://geocode.maps.co/search?q=Druten,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Overveen,%20Nederland, url: https://geocode.maps.co/search?q=Overveen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Wanroij,%20Nederland, url: https://geocode.maps.co/search?q=Wanroij,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Veendam,%20Nederland, url: https://geocode.maps.co/search?q=Veendam,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Elburg,%20Nederland, url: https://geocode.maps.co/search?q=Elburg,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Rotterdam%20-%20Noord,%20Nederland, url: https://geocode.maps.co/search?q=Rotterdam%20-%20Noord,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Weurt,%20Nederland, url: https://geocode.maps.co/search?q=Weurt,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Ermelo,%20Nederland, url: https://geocode.maps.co/search?q=Ermelo,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Roosteren,%20Nederland, url: https://geocode.maps.co/search?q=Roosteren,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Austerlitz,%20Nederland, url: https://geocode.maps.co/search?q=Austerlitz,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Wilp,%20Nederland, url: https://geocode.maps.co/search?q=Wilp,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Zevenaar,%20Nederland, url: https://geocode.maps.co/search?q=Zevenaar,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Leeuwarden,%20Nederland, url: https://geocode.maps.co/search?q=Leeuwarden,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Axel,%20Nederland, url: https://geocode.maps.co/search?q=Axel,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Lemele,%20Nederland, url: https://geocode.maps.co/search?q=Lemele,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Papendrecht,%20Nederland, url: https://geocode.maps.co/search?q=Papendrecht,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Surhuisterveen,%20Nederland, url: https://geocode.maps.co/search?q=Surhuisterveen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Smilde,%20Nederland, url: https://geocode.maps.co/search?q=Smilde,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Sleen,%20Nederland, url: https://geocode.maps.co/search?q=Sleen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Soesterberg,%20Nederland, url: https://geocode.maps.co/search?q=Soesterberg,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Erica,%20Nederland, url: https://geocode.maps.co/search?q=Erica,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Heiloo,%20Nederland, url: https://geocode.maps.co/search?q=Heiloo,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Rijnsburg,%20Nederland, url: https://geocode.maps.co/search?q=Rijnsburg,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Leerdam,%20Nederland, url: https://geocode.maps.co/search?q=Leerdam,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Dodewaard,%20Nederland, url: https://geocode.maps.co/search?q=Dodewaard,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Boekel,%20Nederland, url: https://geocode.maps.co/search?q=Boekel,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: St.-Annaparochie,%20Nederland, url: https://geocode.maps.co/search?q=St.-Annaparochie,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Rosmalen,%20Nederland, url: https://geocode.maps.co/search?q=Rosmalen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Kootwijkerbroek,%20Nederland, url: https://geocode.maps.co/search?q=Kootwijkerbroek,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Terwolde,%20Nederland, url: https://geocode.maps.co/search?q=Terwolde,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Koudum,%20Nederland, url: https://geocode.maps.co/search?q=Koudum,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Schijndel,%20Nederland, url: https://geocode.maps.co/search?q=Schijndel,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Emmeloord,%20Nederland, url: https://geocode.maps.co/search?q=Emmeloord,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Norg,%20Nederland, url: https://geocode.maps.co/search?q=Norg,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Gouderak,%20Nederland, url: https://geocode.maps.co/search?q=Gouderak,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Roden,%20Nederland, url: https://geocode.maps.co/search?q=Roden,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Zevenbergen,%20Nederland, url: https://geocode.maps.co/search?q=Zevenbergen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Monster,%20Nederland, url: https://geocode.maps.co/search?q=Monster,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: De%20Lier,%20Nederland, url: https://geocode.maps.co/search?q=De%20Lier,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Blaricum,%20Nederland, url: https://geocode.maps.co/search?q=Blaricum,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Rumpt,%20Nederland, url: https://geocode.maps.co/search?q=Rumpt,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Loppersum,%20Nederland, url: https://geocode.maps.co/search?q=Loppersum,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Vogelwaarde,%20Nederland, url: https://geocode.maps.co/search?q=Vogelwaarde,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Hummelo,%20Nederland, url: https://geocode.maps.co/search?q=Hummelo,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Etten-Leur,%20Nederland, url: https://geocode.maps.co/search?q=Etten-Leur,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Berkel-Enschot,%20Nederland, url: https://geocode.maps.co/search?q=Berkel-Enschot,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Heeten,%20Nederland, url: https://geocode.maps.co/search?q=Heeten,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Vessem,%20Nederland, url: https://geocode.maps.co/search?q=Vessem,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Heemstede,%20Nederland, url: https://geocode.maps.co/search?q=Heemstede,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Munstergeleen,%20Nederland, url: https://geocode.maps.co/search?q=Munstergeleen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Hengelo,%20Nederland, url: https://geocode.maps.co/search?q=Hengelo,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Horssen,%20Nederland, url: https://geocode.maps.co/search?q=Horssen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Zuidland,%20Nederland, url: https://geocode.maps.co/search?q=Zuidland,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Leiden,%20Nederland, url: https://geocode.maps.co/search?q=Leiden,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Schagerbrug,%20Nederland, url: https://geocode.maps.co/search?q=Schagerbrug,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Klazienaveen,%20Nederland, url: https://geocode.maps.co/search?q=Klazienaveen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Brunssum,%20Nederland, url: https://geocode.maps.co/search?q=Brunssum,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Heerenveen,%20Nederland, url: https://geocode.maps.co/search?q=Heerenveen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Dongen,%20Nederland, url: https://geocode.maps.co/search?q=Dongen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Rotterdam%20-%20Hillegersberg-Schiebroek,%20Nederland, url: https://geocode.maps.co/search?q=Rotterdam%20-%20Hillegersberg-Schiebroek,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Grou,%20Nederland, url: https://geocode.maps.co/search?q=Grou,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Amsterdam%20-%20Zuidoost,%20Nederland, url: https://geocode.maps.co/search?q=Amsterdam%20-%20Zuidoost,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Peize,%20Nederland, url: https://geocode.maps.co/search?q=Peize,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Baarn,%20Nederland, url: https://geocode.maps.co/search?q=Baarn,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Assen,%20Nederland, url: https://geocode.maps.co/search?q=Assen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Sassenheim,%20Nederland, url: https://geocode.maps.co/search?q=Sassenheim,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Hoogvliet%20rotterdam,%20Nederland, url: https://geocode.maps.co/search?q=Hoogvliet%20rotterdam,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Leidschendam,%20Nederland, url: https://geocode.maps.co/search?q=Leidschendam,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Alphen%20aan%20den%20Rijn,%20Nederland, url: https://geocode.maps.co/search?q=Alphen%20aan%20den%20Rijn,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Diemen,%20Nederland, url: https://geocode.maps.co/search?q=Diemen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Valburg,%20Nederland, url: https://geocode.maps.co/search?q=Valburg,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Obdam,%20Nederland, url: https://geocode.maps.co/search?q=Obdam,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Vlijmen,%20Nederland, url: https://geocode.maps.co/search?q=Vlijmen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Driebergen,%20Nederland, url: https://geocode.maps.co/search?q=Driebergen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Margraten,%20Nederland, url: https://geocode.maps.co/search?q=Margraten,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Wesepe,%20Nederland, url: https://geocode.maps.co/search?q=Wesepe,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Halfweg,%20Nederland, url: https://geocode.maps.co/search?q=Halfweg,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Haaren,%20Nederland, url: https://geocode.maps.co/search?q=Haaren,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Darp,%20Nederland, url: https://geocode.maps.co/search?q=Darp,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Kerkwijk,%20Nederland, url: https://geocode.maps.co/search?q=Kerkwijk,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Tiel,%20Nederland, url: https://geocode.maps.co/search?q=Tiel,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Sint%20Odiliënberg,%20Nederland, url: https://geocode.maps.co/search?q=Sint%20Odiliënberg,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Amersfoort,%20Nederland, url: https://geocode.maps.co/search?q=Amersfoort,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Wernhout,%20Nederland, url: https://geocode.maps.co/search?q=Wernhout,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Vries,%20Nederland, url: https://geocode.maps.co/search?q=Vries,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Ingber,%20Nederland, url: https://geocode.maps.co/search?q=Ingber,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Haulerwijk,%20Nederland, url: https://geocode.maps.co/search?q=Haulerwijk,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Wassenaar,%20Nederland, url: https://geocode.maps.co/search?q=Wassenaar,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Ilpendam,%20Nederland, url: https://geocode.maps.co/search?q=Ilpendam,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Paterswolde,%20Nederland, url: https://geocode.maps.co/search?q=Paterswolde,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Heerde,%20Nederland, url: https://geocode.maps.co/search?q=Heerde,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Amstelveen,%20Nederland, url: https://geocode.maps.co/search?q=Amstelveen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Terneuzen,%20Nederland, url: https://geocode.maps.co/search?q=Terneuzen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Purmerend,%20Nederland, url: https://geocode.maps.co/search?q=Purmerend,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: De%20Meern,%20Nederland, url: https://geocode.maps.co/search?q=De%20Meern,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Prinsenbeek,%20Nederland, url: https://geocode.maps.co/search?q=Prinsenbeek,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Amsterdam%20-%20Noord,%20Nederland, url: https://geocode.maps.co/search?q=Amsterdam%20-%20Noord,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Arnhem,%20Nederland, url: https://geocode.maps.co/search?q=Arnhem,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Gemert,%20Nederland, url: https://geocode.maps.co/search?q=Gemert,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Jaarsveld,%20Nederland, url: https://geocode.maps.co/search?q=Jaarsveld,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Ewijk,%20Nederland, url: https://geocode.maps.co/search?q=Ewijk,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Numansdorp,%20Nederland, url: https://geocode.maps.co/search?q=Numansdorp,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Panningen,%20Nederland, url: https://geocode.maps.co/search?q=Panningen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Bergen,%20Nederland, url: https://geocode.maps.co/search?q=Bergen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Gorinchem,%20Nederland, url: https://geocode.maps.co/search?q=Gorinchem,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Bergschenhoek,%20Nederland, url: https://geocode.maps.co/search?q=Bergschenhoek,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Earnewâld,%20Nederland, url: https://geocode.maps.co/search?q=Earnewâld,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Vaals,%20Nederland, url: https://geocode.maps.co/search?q=Vaals,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Bloemendaal,%20Nederland, url: https://geocode.maps.co/search?q=Bloemendaal,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Weerselo,%20Nederland, url: https://geocode.maps.co/search?q=Weerselo,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Reeuwijk,%20Nederland, url: https://geocode.maps.co/search?q=Reeuwijk,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Kamerik,%20Nederland, url: https://geocode.maps.co/search?q=Kamerik,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Schoonoord,%20Nederland, url: https://geocode.maps.co/search?q=Schoonoord,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Oijen,%20Nederland, url: https://geocode.maps.co/search?q=Oijen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Boxmeer,%20Nederland, url: https://geocode.maps.co/search?q=Boxmeer,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Colmschate,%20Nederland, url: https://geocode.maps.co/search?q=Colmschate,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Hoofddorp,%20Nederland, url: https://geocode.maps.co/search?q=Hoofddorp,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Zaamslag,%20Nederland, url: https://geocode.maps.co/search?q=Zaamslag,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Lent,%20Nederland, url: https://geocode.maps.co/search?q=Lent,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Heerhugowaard,%20Nederland, url: https://geocode.maps.co/search?q=Heerhugowaard,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Eefde,%20Nederland, url: https://geocode.maps.co/search?q=Eefde,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Valkenswaard,%20Nederland, url: https://geocode.maps.co/search?q=Valkenswaard,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Grubbenvorst,%20Nederland, url: https://geocode.maps.co/search?q=Grubbenvorst,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Welsum,%20Nederland, url: https://geocode.maps.co/search?q=Welsum,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Rotterdam,%20Nederland, url: https://geocode.maps.co/search?q=Rotterdam,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Vilsteren,%20Nederland, url: https://geocode.maps.co/search?q=Vilsteren,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Budel,%20Nederland, url: https://geocode.maps.co/search?q=Budel,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Veere,%20Nederland, url: https://geocode.maps.co/search?q=Veere,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Wormerveer,%20Nederland, url: https://geocode.maps.co/search?q=Wormerveer,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Nieuw-Amsterdam,%20Nederland, url: https://geocode.maps.co/search?q=Nieuw-Amsterdam,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Nieuwe%20Niedorp,%20Nederland, url: https://geocode.maps.co/search?q=Nieuwe%20Niedorp,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Julianadorp,%20Nederland, url: https://geocode.maps.co/search?q=Julianadorp,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Coevorden,%20Nederland, url: https://geocode.maps.co/search?q=Coevorden,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Domburg,%20Nederland, url: https://geocode.maps.co/search?q=Domburg,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Hoogeloon,%20Nederland, url: https://geocode.maps.co/search?q=Hoogeloon,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Duiven,%20Nederland, url: https://geocode.maps.co/search?q=Duiven,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Achterveld,%20Nederland, url: https://geocode.maps.co/search?q=Achterveld,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Sint%20Pancras,%20Nederland, url: https://geocode.maps.co/search?q=Sint%20Pancras,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Nieuwleusen,%20Nederland, url: https://geocode.maps.co/search?q=Nieuwleusen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Watergang,%20Nederland, url: https://geocode.maps.co/search?q=Watergang,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Amsterdam,%20Nederland, url: https://geocode.maps.co/search?q=Amsterdam,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Gilze,%20Nederland, url: https://geocode.maps.co/search?q=Gilze,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Borculo,%20Nederland, url: https://geocode.maps.co/search?q=Borculo,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Polsbroek,%20Nederland, url: https://geocode.maps.co/search?q=Polsbroek,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Haarlem,%20Nederland, url: https://geocode.maps.co/search?q=Haarlem,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Gasselternijveen,%20Nederland, url: https://geocode.maps.co/search?q=Gasselternijveen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Noordwijk%20ZH,%20Nederland, url: https://geocode.maps.co/search?q=Noordwijk%20ZH,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Echt,%20Nederland, url: https://geocode.maps.co/search?q=Echt,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: IJzendijke,%20Nederland, url: https://geocode.maps.co/search?q=IJzendijke,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Lelystad,%20Nederland, url: https://geocode.maps.co/search?q=Lelystad,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Handel,%20Nederland, url: https://geocode.maps.co/search?q=Handel,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Veghel,%20Nederland, url: https://geocode.maps.co/search?q=Veghel,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Barendrecht,%20Nederland, url: https://geocode.maps.co/search?q=Barendrecht,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Breukelen%20ut,%20Nederland, url: https://geocode.maps.co/search?q=Breukelen%20ut,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Cuijk,%20Nederland, url: https://geocode.maps.co/search?q=Cuijk,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Voorst,%20Nederland, url: https://geocode.maps.co/search?q=Voorst,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Middenmeer,%20Nederland, url: https://geocode.maps.co/search?q=Middenmeer,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Schiedam,%20Nederland, url: https://geocode.maps.co/search?q=Schiedam,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Stompetoren,%20Nederland, url: https://geocode.maps.co/search?q=Stompetoren,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Heteren,%20Nederland, url: https://geocode.maps.co/search?q=Heteren,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Cromvoirt,%20Nederland, url: https://geocode.maps.co/search?q=Cromvoirt,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Sint-Michielsgestel,%20Nederland, url: https://geocode.maps.co/search?q=Sint-Michielsgestel,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Loosdrecht,%20Nederland, url: https://geocode.maps.co/search?q=Loosdrecht,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Vianen,%20Nederland, url: https://geocode.maps.co/search?q=Vianen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Foxhol,%20Nederland, url: https://geocode.maps.co/search?q=Foxhol,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Baambrugge,%20Nederland, url: https://geocode.maps.co/search?q=Baambrugge,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Barneveld,%20Nederland, url: https://geocode.maps.co/search?q=Barneveld,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Oegstgeest,%20Nederland, url: https://geocode.maps.co/search?q=Oegstgeest,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Beneden-Leeuwen,%20Nederland, url: https://geocode.maps.co/search?q=Beneden-Leeuwen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Ulvenhout%20(Gem.%20Breda),%20Nederland, url: https://geocode.maps.co/search?q=Ulvenhout%20(Gem.%20Breda),%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+No results found for the given address.
+Getting coordinates for: Eygelshoven,%20Nederland, url: https://geocode.maps.co/search?q=Eygelshoven,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Oudkarspel,%20Nederland, url: https://geocode.maps.co/search?q=Oudkarspel,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Krimpen%20aan%20de%20Lek,%20Nederland, url: https://geocode.maps.co/search?q=Krimpen%20aan%20de%20Lek,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Driebergen-Rijsenburg,%20Nederland, url: https://geocode.maps.co/search?q=Driebergen-Rijsenburg,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Grijpskerk,%20Nederland, url: https://geocode.maps.co/search?q=Grijpskerk,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Tjerkwerd,%20Nederland, url: https://geocode.maps.co/search?q=Tjerkwerd,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Boskoop,%20Nederland, url: https://geocode.maps.co/search?q=Boskoop,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Stavoren,%20Nederland, url: https://geocode.maps.co/search?q=Stavoren,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Noordwijkerhout,%20Nederland, url: https://geocode.maps.co/search?q=Noordwijkerhout,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Goedereede,%20Nederland, url: https://geocode.maps.co/search?q=Goedereede,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Duivendrecht,%20Nederland, url: https://geocode.maps.co/search?q=Duivendrecht,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Bennebroek,%20Nederland, url: https://geocode.maps.co/search?q=Bennebroek,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Helvoirt,%20Nederland, url: https://geocode.maps.co/search?q=Helvoirt,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Malden,%20Nederland, url: https://geocode.maps.co/search?q=Malden,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Haarle%20(Gem.%20Tubbergen),%20Nederland, url: https://geocode.maps.co/search?q=Haarle%20(Gem.%20Tubbergen),%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+No results found for the given address.
+Getting coordinates for: Doorwerth,%20Nederland, url: https://geocode.maps.co/search?q=Doorwerth,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Maastricht,%20Nederland, url: https://geocode.maps.co/search?q=Maastricht,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Marum,%20Nederland, url: https://geocode.maps.co/search?q=Marum,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Steenbergen,%20Nederland, url: https://geocode.maps.co/search?q=Steenbergen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Nieuw-Buinen,%20Nederland, url: https://geocode.maps.co/search?q=Nieuw-Buinen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Dokkum,%20Nederland, url: https://geocode.maps.co/search?q=Dokkum,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Bergeijk,%20Nederland, url: https://geocode.maps.co/search?q=Bergeijk,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Amerongen,%20Nederland, url: https://geocode.maps.co/search?q=Amerongen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Zaandam,%20Nederland, url: https://geocode.maps.co/search?q=Zaandam,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Nootdorp,%20Nederland, url: https://geocode.maps.co/search?q=Nootdorp,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Haastrecht,%20Nederland, url: https://geocode.maps.co/search?q=Haastrecht,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Hoevelaken,%20Nederland, url: https://geocode.maps.co/search?q=Hoevelaken,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Eersel,%20Nederland, url: https://geocode.maps.co/search?q=Eersel,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Assendelft,%20Nederland, url: https://geocode.maps.co/search?q=Assendelft,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Stellendam,%20Nederland, url: https://geocode.maps.co/search?q=Stellendam,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Nijverdal,%20Nederland, url: https://geocode.maps.co/search?q=Nijverdal,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Standdaarbuiten,%20Nederland, url: https://geocode.maps.co/search?q=Standdaarbuiten,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Wierum,%20Nederland, url: https://geocode.maps.co/search?q=Wierum,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Elim,%20Nederland, url: https://geocode.maps.co/search?q=Elim,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Weesp,%20Nederland, url: https://geocode.maps.co/search?q=Weesp,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Ridderkerk,%20Nederland, url: https://geocode.maps.co/search?q=Ridderkerk,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Sluiskil,%20Nederland, url: https://geocode.maps.co/search?q=Sluiskil,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Simpelveld,%20Nederland, url: https://geocode.maps.co/search?q=Simpelveld,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Annen,%20Nederland, url: https://geocode.maps.co/search?q=Annen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Soest,%20Nederland, url: https://geocode.maps.co/search?q=Soest,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Ameide,%20Nederland, url: https://geocode.maps.co/search?q=Ameide,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Nijmegen,%20Nederland, url: https://geocode.maps.co/search?q=Nijmegen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Rotterdam%20-%20IJsselmonde,%20Nederland, url: https://geocode.maps.co/search?q=Rotterdam%20-%20IJsselmonde,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Mijdrecht,%20Nederland, url: https://geocode.maps.co/search?q=Mijdrecht,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Zuidhorn,%20Nederland, url: https://geocode.maps.co/search?q=Zuidhorn,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Zundert,%20Nederland, url: https://geocode.maps.co/search?q=Zundert,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Vlaardingen,%20Nederland, url: https://geocode.maps.co/search?q=Vlaardingen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Opeinde,%20Nederland, url: https://geocode.maps.co/search?q=Opeinde,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Sleeuwijk,%20Nederland, url: https://geocode.maps.co/search?q=Sleeuwijk,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Oosterwolde,%20Nederland, url: https://geocode.maps.co/search?q=Oosterwolde,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Poortugaal,%20Nederland, url: https://geocode.maps.co/search?q=Poortugaal,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Odijk,%20Nederland, url: https://geocode.maps.co/search?q=Odijk,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Reusel,%20Nederland, url: https://geocode.maps.co/search?q=Reusel,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Angeren,%20Nederland, url: https://geocode.maps.co/search?q=Angeren,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Emmen,%20Nederland, url: https://geocode.maps.co/search?q=Emmen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Velserbroek,%20Nederland, url: https://geocode.maps.co/search?q=Velserbroek,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Buren,%20Nederland, url: https://geocode.maps.co/search?q=Buren,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Badhoevedorp,%20Nederland, url: https://geocode.maps.co/search?q=Badhoevedorp,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Schagen,%20Nederland, url: https://geocode.maps.co/search?q=Schagen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Bentelo,%20Nederland, url: https://geocode.maps.co/search?q=Bentelo,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Blauwestad,%20Nederland, url: https://geocode.maps.co/search?q=Blauwestad,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Winterswijk,%20Nederland, url: https://geocode.maps.co/search?q=Winterswijk,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Voorhout,%20Nederland, url: https://geocode.maps.co/search?q=Voorhout,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Rotterdam%20-%20Kralingen-Crooswijk,%20Nederland, url: https://geocode.maps.co/search?q=Rotterdam%20-%20Kralingen-Crooswijk,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Gorssel,%20Nederland, url: https://geocode.maps.co/search?q=Gorssel,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Nieuwerkerk%20a/d%20ijssel,%20Nederland, url: https://geocode.maps.co/search?q=Nieuwerkerk%20a/d%20ijssel,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Medemblik,%20Nederland, url: https://geocode.maps.co/search?q=Medemblik,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Westerhoven,%20Nederland, url: https://geocode.maps.co/search?q=Westerhoven,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Den%20Hoorn,%20Nederland, url: https://geocode.maps.co/search?q=Den%20Hoorn,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Lith,%20Nederland, url: https://geocode.maps.co/search?q=Lith,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Woubrugge,%20Nederland, url: https://geocode.maps.co/search?q=Woubrugge,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Dieren,%20Nederland, url: https://geocode.maps.co/search?q=Dieren,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Geervliet,%20Nederland, url: https://geocode.maps.co/search?q=Geervliet,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Westerbork,%20Nederland, url: https://geocode.maps.co/search?q=Westerbork,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Alphen,%20Nederland, url: https://geocode.maps.co/search?q=Alphen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Hardinxveld-Giessendam,%20Nederland, url: https://geocode.maps.co/search?q=Hardinxveld-Giessendam,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Pannerden,%20Nederland, url: https://geocode.maps.co/search?q=Pannerden,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Capelle%20aan%20den%20IJssel,%20Nederland, url: https://geocode.maps.co/search?q=Capelle%20aan%20den%20IJssel,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Delfgauw,%20Nederland, url: https://geocode.maps.co/search?q=Delfgauw,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Maarssen,%20Nederland, url: https://geocode.maps.co/search?q=Maarssen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Wateringen,%20Nederland, url: https://geocode.maps.co/search?q=Wateringen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Urmond,%20Nederland, url: https://geocode.maps.co/search?q=Urmond,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Son%20en%20Breugel,%20Nederland, url: https://geocode.maps.co/search?q=Son%20en%20Breugel,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Didam,%20Nederland, url: https://geocode.maps.co/search?q=Didam,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Vaassen,%20Nederland, url: https://geocode.maps.co/search?q=Vaassen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Leiderdorp,%20Nederland, url: https://geocode.maps.co/search?q=Leiderdorp,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Vroomshoop,%20Nederland, url: https://geocode.maps.co/search?q=Vroomshoop,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Huizen,%20Nederland, url: https://geocode.maps.co/search?q=Huizen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Renkum,%20Nederland, url: https://geocode.maps.co/search?q=Renkum,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Rijsenhout,%20Nederland, url: https://geocode.maps.co/search?q=Rijsenhout,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Vollenhove,%20Nederland, url: https://geocode.maps.co/search?q=Vollenhove,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Ternaard,%20Nederland, url: https://geocode.maps.co/search?q=Ternaard,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Stolwijk,%20Nederland, url: https://geocode.maps.co/search?q=Stolwijk,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Made,%20Nederland, url: https://geocode.maps.co/search?q=Made,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Veenendaal,%20Nederland, url: https://geocode.maps.co/search?q=Veenendaal,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: St.%20Willebrord,%20Nederland, url: https://geocode.maps.co/search?q=St.%20Willebrord,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Rhoon,%20Nederland, url: https://geocode.maps.co/search?q=Rhoon,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Woudenberg,%20Nederland, url: https://geocode.maps.co/search?q=Woudenberg,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Wijdewormer,%20Nederland, url: https://geocode.maps.co/search?q=Wijdewormer,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Helden,%20Nederland, url: https://geocode.maps.co/search?q=Helden,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Melissant,%20Nederland, url: https://geocode.maps.co/search?q=Melissant,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Rolde,%20Nederland, url: https://geocode.maps.co/search?q=Rolde,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Enkhuizen,%20Nederland, url: https://geocode.maps.co/search?q=Enkhuizen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Limmen,%20Nederland, url: https://geocode.maps.co/search?q=Limmen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Nuenen,%20Nederland, url: https://geocode.maps.co/search?q=Nuenen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Born,%20Nederland, url: https://geocode.maps.co/search?q=Born,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Sevenum,%20Nederland, url: https://geocode.maps.co/search?q=Sevenum,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Appeltern,%20Nederland, url: https://geocode.maps.co/search?q=Appeltern,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Hulst,%20Nederland, url: https://geocode.maps.co/search?q=Hulst,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Warffum,%20Nederland, url: https://geocode.maps.co/search?q=Warffum,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Staphorst,%20Nederland, url: https://geocode.maps.co/search?q=Staphorst,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Wapenveld,%20Nederland, url: https://geocode.maps.co/search?q=Wapenveld,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Leimuiden,%20Nederland, url: https://geocode.maps.co/search?q=Leimuiden,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Amstenrade,%20Nederland, url: https://geocode.maps.co/search?q=Amstenrade,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Naaldwijk,%20Nederland, url: https://geocode.maps.co/search?q=Naaldwijk,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Lieshout,%20Nederland, url: https://geocode.maps.co/search?q=Lieshout,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Kampen,%20Nederland, url: https://geocode.maps.co/search?q=Kampen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Someren,%20Nederland, url: https://geocode.maps.co/search?q=Someren,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Enschede,%20Nederland, url: https://geocode.maps.co/search?q=Enschede,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Kaag,%20Nederland, url: https://geocode.maps.co/search?q=Kaag,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Nieuwkoop,%20Nederland, url: https://geocode.maps.co/search?q=Nieuwkoop,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Dinxperlo,%20Nederland, url: https://geocode.maps.co/search?q=Dinxperlo,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Rijssen,%20Nederland, url: https://geocode.maps.co/search?q=Rijssen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Venlo,%20Nederland, url: https://geocode.maps.co/search?q=Venlo,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Hoogeveen,%20Nederland, url: https://geocode.maps.co/search?q=Hoogeveen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Elst,%20Nederland, url: https://geocode.maps.co/search?q=Elst,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Kruiningen,%20Nederland, url: https://geocode.maps.co/search?q=Kruiningen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Leek,%20Nederland, url: https://geocode.maps.co/search?q=Leek,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Biddinghuizen,%20Nederland, url: https://geocode.maps.co/search?q=Biddinghuizen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Santpoort-Noord,%20Nederland, url: https://geocode.maps.co/search?q=Santpoort-Noord,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Drachten,%20Nederland, url: https://geocode.maps.co/search?q=Drachten,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Lemelerveld,%20Nederland, url: https://geocode.maps.co/search?q=Lemelerveld,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Krommenie,%20Nederland, url: https://geocode.maps.co/search?q=Krommenie,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Waddinxveen,%20Nederland, url: https://geocode.maps.co/search?q=Waddinxveen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Valkenburg,%20Nederland, url: https://geocode.maps.co/search?q=Valkenburg,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Kerkdriel,%20Nederland, url: https://geocode.maps.co/search?q=Kerkdriel,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Weert,%20Nederland, url: https://geocode.maps.co/search?q=Weert,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Voorschoten,%20Nederland, url: https://geocode.maps.co/search?q=Voorschoten,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Eibergen,%20Nederland, url: https://geocode.maps.co/search?q=Eibergen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Rheden,%20Nederland, url: https://geocode.maps.co/search?q=Rheden,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Beekbergen,%20Nederland, url: https://geocode.maps.co/search?q=Beekbergen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Andijk,%20Nederland, url: https://geocode.maps.co/search?q=Andijk,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Tricht,%20Nederland, url: https://geocode.maps.co/search?q=Tricht,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Landgraaf,%20Nederland, url: https://geocode.maps.co/search?q=Landgraaf,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Hattem,%20Nederland, url: https://geocode.maps.co/search?q=Hattem,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Herpen,%20Nederland, url: https://geocode.maps.co/search?q=Herpen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Duizel,%20Nederland, url: https://geocode.maps.co/search?q=Duizel,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Vught,%20Nederland, url: https://geocode.maps.co/search?q=Vught,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Uithoorn,%20Nederland, url: https://geocode.maps.co/search?q=Uithoorn,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Gorredijk,%20Nederland, url: https://geocode.maps.co/search?q=Gorredijk,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Spijkenisse,%20Nederland, url: https://geocode.maps.co/search?q=Spijkenisse,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Ysselsteyn,%20Nederland, url: https://geocode.maps.co/search?q=Ysselsteyn,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Koog%20aan%20de%20Zaan,%20Nederland, url: https://geocode.maps.co/search?q=Koog%20aan%20de%20Zaan,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Oldenzaal,%20Nederland, url: https://geocode.maps.co/search?q=Oldenzaal,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Doorn,%20Nederland, url: https://geocode.maps.co/search?q=Doorn,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Amsterdam%20-%20Zuid,%20Nederland, url: https://geocode.maps.co/search?q=Amsterdam%20-%20Zuid,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Genemuiden,%20Nederland, url: https://geocode.maps.co/search?q=Genemuiden,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Susteren,%20Nederland, url: https://geocode.maps.co/search?q=Susteren,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Baarlo,%20Nederland, url: https://geocode.maps.co/search?q=Baarlo,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Bilthoven,%20Nederland, url: https://geocode.maps.co/search?q=Bilthoven,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Harlingen,%20Nederland, url: https://geocode.maps.co/search?q=Harlingen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Emmer-Compascuum,%20Nederland, url: https://geocode.maps.co/search?q=Emmer-Compascuum,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Oene,%20Nederland, url: https://geocode.maps.co/search?q=Oene,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: UTRECHT,%20Nederland, url: https://geocode.maps.co/search?q=UTRECHT,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Midwolda,%20Nederland, url: https://geocode.maps.co/search?q=Midwolda,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Nieuwolda,%20Nederland, url: https://geocode.maps.co/search?q=Nieuwolda,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Koudekerke,%20Nederland, url: https://geocode.maps.co/search?q=Koudekerke,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Stadskanaal,%20Nederland, url: https://geocode.maps.co/search?q=Stadskanaal,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Hillegom,%20Nederland, url: https://geocode.maps.co/search?q=Hillegom,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Schipborg,%20Nederland, url: https://geocode.maps.co/search?q=Schipborg,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Hellevoetsluis,%20Nederland, url: https://geocode.maps.co/search?q=Hellevoetsluis,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Eethen,%20Nederland, url: https://geocode.maps.co/search?q=Eethen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Landsmeer,%20Nederland, url: https://geocode.maps.co/search?q=Landsmeer,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Bergambacht,%20Nederland, url: https://geocode.maps.co/search?q=Bergambacht,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Lage%20Mierde,%20Nederland, url: https://geocode.maps.co/search?q=Lage%20Mierde,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Honselersdijk,%20Nederland, url: https://geocode.maps.co/search?q=Honselersdijk,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Kockengen,%20Nederland, url: https://geocode.maps.co/search?q=Kockengen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Oentsjerk,%20Nederland, url: https://geocode.maps.co/search?q=Oentsjerk,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Herveld,%20Nederland, url: https://geocode.maps.co/search?q=Herveld,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Nieuw%20vennep,%20Nederland, url: https://geocode.maps.co/search?q=Nieuw%20vennep,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Bergen%20op%20Zoom,%20Nederland, url: https://geocode.maps.co/search?q=Bergen%20op%20Zoom,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Ruurlo,%20Nederland, url: https://geocode.maps.co/search?q=Ruurlo,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Edam,%20Nederland, url: https://geocode.maps.co/search?q=Edam,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Swalmen,%20Nederland, url: https://geocode.maps.co/search?q=Swalmen,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: BILTHOVEN,%20Nederland, url: https://geocode.maps.co/search?q=BILTHOVEN,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Nistelrode,%20Nederland, url: https://geocode.maps.co/search?q=Nistelrode,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Den%20Helder,%20Nederland, url: https://geocode.maps.co/search?q=Den%20Helder,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Westdorpe,%20Nederland, url: https://geocode.maps.co/search?q=Westdorpe,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Castricum,%20Nederland, url: https://geocode.maps.co/search?q=Castricum,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Hurdegaryp,%20Nederland, url: https://geocode.maps.co/search?q=Hurdegaryp,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Naarden,%20Nederland, url: https://geocode.maps.co/search?q=Naarden,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Terborg,%20Nederland, url: https://geocode.maps.co/search?q=Terborg,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Den%20bosch,%20Nederland, url: https://geocode.maps.co/search?q=Den%20bosch,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Oisterwijk,%20Nederland, url: https://geocode.maps.co/search?q=Oisterwijk,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Wehl,%20Nederland, url: https://geocode.maps.co/search?q=Wehl,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Nederhorst%20den%20berg,%20Nederland, url: https://geocode.maps.co/search?q=Nederhorst%20den%20berg,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+Getting coordinates for: Velsen-Noord,%20Nederland, url: https://geocode.maps.co/search?q=Velsen-Noord,%20Nederland&api_key=660bfd768a466267341390xki1f15c5
+{"'s-Gravendeel": ('51.7806608', '4.6198749'),
+ "'s-Gravenzande": ('52.0028294', '4.1603759'),
+ "'s-Heerenberg": ('51.8779448', '6.2548363'),
+ 'AMERSFOORT': ('52.1562499', '5.3896944'),
+ 'Aalsmeer': ('52.2658344', '4.766170039669312'),
+ 'Aardenburg': ('51.2736623', '3.4496895'),
+ 'Abcoude': ('52.270281', '4.9710427'),
+ 'Achterveld': ('52.1357411', '5.4965611'),
+ 'Aerdenhout': ('52.3629912', '4.5909112'),
+ 'Akersloot': ('52.5599095', '4.7320342'),
+ 'Alkmaar': ('52.600853799999996', '4.817099446443963'),
+ 'Almelo': ('52.3567956', '6.66725277634109'),
+ 'Almere': ('52.3705038', '5.2185859'),
+ 'Alphen': ('51.4829194', '4.9553103'),
+ 'Alphen aan den Rijn': ('52.1131403', '4.6408411999450685'),
+ 'Ameide': ('51.95476', '4.9628669'),
+ 'Amerongen': ('52.000487', '5.4600535'),
+ 'Amersfoort': ('52.1562499', '5.3896944'),
+ 'Amstelveen': ('52.2862177', '4.852649259746028'),
+ 'Amstenrade': ('50.9406552', '5.9219975'),
+ 'Amsterdam': ('52.3730796', '4.8924534'),
+ 'Amsterdam - Centrum': ('52.3374214', '4.942947'),
+ 'Amsterdam - Nieuw-West': ('52.3609481', '4.8392177'),
+ 'Amsterdam - Noord': ('52.4097446', '4.9319309'),
+ 'Amsterdam - Oost': ('52.3627683', '4.922683'),
+ 'Amsterdam - West': ('52.3615701', '4.8422789'),
+ 'Amsterdam - Zuid': ('52.3390172', '4.8734324'),
+ 'Amsterdam - Zuidoost': ('52.2942424', '4.9416568'),
+ 'Andijk': ('52.7454064', '5.2218881'),
+ 'Angeren': ('51.9162738', '5.9569025'),
+ 'Anna Paulowna': ('52.860219', '4.8245885'),
+ 'Annen': ('53.05532', '6.72731'),
+ 'Apeldoorn': ('52.17957375', '5.930077460807249'),
+ 'Appelscha': ('52.9524178', '6.3441136'),
+ 'Appeltern': ('51.8309609', '5.5833037'),
+ 'Appingedam': ('53.3203563', '6.8577654'),
+ 'Arnhem': ('51.984257', '5.9108573'),
+ 'Assen': ('52.9952273', '6.560498'),
+ 'Assendelft': ('52.4681109', '4.7449605'),
+ 'Asten': ('51.3869026', '5.791446670449439'),
+ 'Austerlitz': ('52.078001', '5.3160068'),
+ 'Axel': ('51.2673945', '3.9071593'),
+ 'BILTHOVEN': ('52.1289693', '5.2046134'),
+ 'Baambrugge': ('52.2475895', '4.990877'),
+ 'Baarlo': ('51.3319545', '6.0967255'),
+ 'Baarn': ('52.2002549', '5.269143393313942'),
+ 'Bad Nieuweschans': ('53.1799334', '7.2093739'),
+ 'Badhoevedorp': ('52.3388803', '4.7844704'),
+ 'Barendrecht': ('51.85193795', '4.52938352520747'),
+ 'Barneveld': ('52.17150665', '5.645439249954029'),
+ 'Bavel': ('51.5656819', '4.8296995'),
+ 'Bedum': ('53.3003141', '6.5961866'),
+ 'Beek': ('50.926876899999996', '5.810685055558121'),
+ 'Beek en Donk': ('51.5337801', '5.6329857'),
+ 'Beekbergen': ('52.1592697', '5.9637625'),
+ 'Beilen': ('52.8610999', '6.5124319'),
+ 'Bemmel': ('51.8915382', '5.8984809'),
+ 'Beneden-Leeuwen': ('51.8809765', '5.5096395'),
+ 'Bennebroek': ('52.322419', '4.5937366'),
+ 'Bennekom': ('52.0015947', '5.6756511'),
+ 'Bentelo': ('52.2264165', '6.6835984'),
+ 'Berg en Terblijt': ('50.8603556', '5.7858403'),
+ 'Bergambacht': ('51.9314474', '4.7827247'),
+ 'Bergeijk': ('51.3211501', '5.3569427'),
+ 'Bergen': ('52.6702278', '4.7011616'),
+ 'Bergen op Zoom': ('51.4944756', '4.2871541'),
+ 'Berghem': ('51.7709604', '5.5721927'),
+ 'Bergschenhoek': ('51.98934', '4.5016775'),
+ 'Berkel en Rodenrijs': ('51.9911323', '4.4739774'),
+ 'Berkel-Enschot': ('51.5854521', '5.1422542'),
+ 'Berlicum': ('51.6783377', '5.3991284'),
+ 'Best': ('51.5033671', '5.3938665'),
+ 'Beverwijk': ('52.4857561', '4.6578632'),
+ 'Biddinghuizen': ('52.4552216', '5.6921598'),
+ 'Bilthoven': ('52.1289693', '5.2046134'),
+ 'Bitgum': ('53.2367299', '5.6881129'),
+ 'Bladel': ('51.37121075', '5.234630644566941'),
+ 'Blaricum': ('52.281133749999995', '5.29371090566366'),
+ 'Blauwestad': ('53.1681678', '7.0389364'),
+ 'Bleiswijk': ('52.0109579', '4.5310837'),
+ 'Bloemendaal': ('52.3742917', '4.591534676879699'),
+ 'Bodegraven': ('52.0834347', '4.7510872'),
+ 'Boekel': ('51.605927300000005', '5.69911232186362'),
+ 'Boelenslaan': ('53.1605659', '6.146872'),
+ 'Bolsward': ('53.0620178', '5.5228964'),
+ 'Borculo': ('52.114854', '6.5180361'),
+ 'Born': ('51.03383', '5.80965'),
+ 'Borne': ('52.3004342', '6.754922548726859'),
+ 'Bornerbroek': ('52.3084978', '6.6553464'),
+ 'Boskoop': ('52.0742348', '4.6631166'),
+ 'Bourtange': ('53.0067206', '7.1920883'),
+ 'Bovenkarspel': ('52.6988258', '5.2497934'),
+ 'Boxmeer': ('51.6486483', '5.9450972'),
+ 'Boxtel': ('51.5890603', '5.315795445406877'),
+ 'Breda': ('51.5887845', '4.7760237'),
+ 'Breskens': ('51.3957804', '3.5551696'),
+ 'Breukelen': ('52.171959', '5.002675'),
+ 'Breukelen ut': ('52.171959', '5.002675'),
+ 'Brielle': ('51.901662', '4.1626292'),
+ 'Broekhuizenvorst': ('51.4958387', '6.1566406'),
+ 'Bruinisse': ('51.6622699', '4.09594'),
+ 'Brunssum': ('50.9431108', '5.9705675'),
+ 'Budel': ('51.2744706', '5.5744905'),
+ 'Buitenpost': ('53.2540233', '6.1443119'),
+ 'Bunde': ('50.8974116', '5.7325399'),
+ 'Bunnik': ('52.039151849999996', '5.220319799249577'),
+ 'Bunschoten-Spakenburg': ('52.2452013', '5.3731599'),
+ 'Buren': ('51.92963705', '5.420000238944224'),
+ 'Burgum': ('53.1954807', '5.9871063'),
+ 'Bussum': ('52.2773656', '5.1630646'),
+ 'Cadzand': ('51.3685463', '3.4089972'),
+ 'Callantsoog': ('52.836343', '4.697128'),
+ 'Capelle aan den IJssel': ('51.9312552', '4.5883596'),
+ 'Castricum': ('52.558830549999996', '4.639675526200153'),
+ 'Coevorden': ('52.65266925', '6.739318988174109'),
+ 'Colmschate': ('52.2495667', '6.2157341'),
+ 'Cothen': ('51.9987415', '5.3118293'),
+ 'Cromvoirt': ('51.6605431', '5.2330368'),
+ 'Cruquius': ('52.3364776', '4.6367765'),
+ 'Cuijk': ('51.729939', '5.8800458'),
+ 'Culemborg': ('51.94933145', '5.209215154667634'),
+ 'Dalfsen': ('52.51178365', '6.256636721854065'),
+ 'Darp': ('52.7751894', '6.2041078'),
+ 'De Bilt': ('52.1445592', '5.173777333788463'),
+ 'De Kwakel': ('52.2388539', '4.7932514'),
+ 'De Lier': ('51.9751843', '4.2471322'),
+ 'De Meern': ('52.0811781', '5.0363571'),
+ 'De Rijp': ('52.5549246', '4.8441501'),
+ 'De Zilk': ('52.3023715', '4.543193'),
+ 'Dedemsvaart': ('52.5996262', '6.4593207'),
+ 'Delden': ('52.2620407', '6.7091147'),
+ 'Delfgauw': ('52.0095838', '4.3956354'),
+ 'Delft': ('51.999457199999995', '4.362724538543995'),
+ 'Delfzijl': ('53.3337339', '6.9237352'),
+ 'Den Bosch': ('51.6889387', '5.303116'),
+ 'Den Burg': ('53.055232', '4.7967379'),
+ 'Den Dolder': ('52.1413382', '5.2391461'),
+ 'Den Dungen': ('51.6656003', '5.3712805'),
+ 'Den Haag': ('52.0799838', '4.3113461'),
+ 'Den Ham': ('53.2738959', '6.4271387'),
+ 'Den Helder': ('52.9529894', '4.8267592494488'),
+ 'Den Hoorn': ('53.025316', '4.7527063'),
+ 'Den Ilp': ('52.4510199', '4.9088104'),
+ 'Den bosch': ('51.6889387', '5.303116'),
+ 'Den dolder': ('52.1413382', '5.2391461'),
+ 'Denekamp': ('52.3746713', '7.0055192'),
+ 'Deventer': ('52.2695736', '6.236339604766698'),
+ 'Didam': ('51.937228', '6.1275981'),
+ 'Diemen': ('52.3350493', '4.984282926187014'),
+ 'Diepenheim': ('52.1992824', '6.5550104'),
+ 'Diepenveen': ('52.2881152', '6.1459232'),
+ 'Dieren': ('52.0526703', '6.1014431'),
+ 'Dinxperlo': ('51.863757', '6.4879872'),
+ 'Dodewaard': ('51.9140052', '5.6569388'),
+ 'Doesburg': ('52.018750499999996', '6.151558274308546'),
+ 'Doetinchem': ('51.958534799999995', '6.281455126241391'),
+ 'Dokkum': ('53.3243515', '5.9992306'),
+ 'Domburg': ('51.5632141', '3.4967277'),
+ 'Dongen': ('51.6428928', '4.957877019933202'),
+ 'Doorn': ('52.0333163', '5.3455956'),
+ 'Doorwerth': ('51.9788685', '5.8048452'),
+ 'Dordrecht': ('51.814429', '4.6692438'),
+ 'Drachten': ('53.1091111', '6.0948102'),
+ 'Driebergen': ('52.0651958', '5.2897704'),
+ 'Driebergen-Rijsenburg': ('52.0522872', '5.2834752'),
+ 'Driehuis': ('52.4427409', '4.6387141'),
+ 'Driehuis NH': ('52.448574', '4.6384854'),
+ 'Driehuizen': ('51.64374', '5.56865'),
+ 'Driel': ('51.9591611', '5.8162241'),
+ 'Dronten': ('52.531389649999994', '5.750631211201343'),
+ 'Drunen': ('51.6862832', '5.130986'),
+ 'Druten': ('51.88473605', '5.600426136616262'),
+ 'Duiven': ('51.9470218', '6.02303247329986'),
+ 'Duivendrecht': ('52.3235787', '4.9365267'),
+ 'Duizel': ('51.369895', '5.2996185'),
+ 'Dussen': ('51.7308649', '4.9630508'),
+ 'Earnewâld': ('53.1322349', '5.9406531'),
+ 'Echt': ('51.1073016', '5.8719765'),
+ 'Edam': ('52.5119116', '5.0562845'),
+ 'Ede': ('52.07168255', '5.745510631034939'),
+ 'Eede': ('51.2469881', '3.4433794'),
+ 'Eefde': ('52.1709839', '6.2269387'),
+ 'Eelde': ('53.1346105', '6.5633884'),
+ 'Eemnes': ('52.2547415', '5.286070995513654'),
+ 'Eersel': ('51.393329050000006', '5.341352630697114'),
+ 'Eethen': ('51.7307562', '5.0535259'),
+ 'Egmond aan den Hoef': ('52.6212361', '4.6525624'),
+ 'Egmond-Binnen': ('52.5973633', '4.6553966'),
+ 'Eibergen': ('52.1032685', '6.6511683'),
+ 'Eijsden': ('50.7782686', '5.7075337'),
+ 'Eindhoven': ('51.4392648', '5.478633'),
+ 'Einighausen': ('51.0026446', '5.8264272'),
+ 'Elburg': ('52.415659149999996', '5.841321708557087'),
+ 'Elim': ('52.682346', '6.5807927'),
+ 'Elst': ('51.9187914', '5.8452555'),
+ 'Emmeloord': ('52.7091058', '5.7477459'),
+ 'Emmen': ('52.75286615', '6.952513466208563'),
+ 'Emmer-Compascuum': ('52.8115315', '7.046206'),
+ 'Enkhuizen': ('52.7036282', '5.2901222'),
+ 'Ens': ('52.6366994', '5.8269247'),
+ 'Enschede': ('52.2209855', '6.8940537'),
+ 'Epe': ('52.3270371', '5.9631945020748915'),
+ 'Epse': ('52.2253703', '6.2000576'),
+ 'Erica': ('52.7158137', '6.926866'),
+ 'Ermelo': ('52.2858356', '5.654938589920705'),
+ 'Esbeek': ('51.4618953', '5.1371625'),
+ 'Est': ('51.8521989', '5.3127923'),
+ 'Etten-Leur': ('51.5692065', '4.6360813'),
+ 'Ewijk': ('51.8691291', '5.7391267'),
+ 'Eygelshoven': ('50.8939883', '6.0600452'),
+ 'Foxhol': ('53.1671992', '6.7211866'),
+ 'Franeker': ('53.1880505', '5.5409648'),
+ 'Gameren': ('51.8000907', '5.2057359'),
+ 'Garderen': ('52.2331839', '5.714073'),
+ 'Gasselternijveen': ('52.9862139', '6.8471868'),
+ 'Geervliet': ('51.8602806', '4.2590568'),
+ 'Geldrop': ('51.4226684', '5.5607546'),
+ 'Geleen': ('50.9673322', '5.8277007'),
+ 'Gemert': ('51.5589833', '5.6864592'),
+ 'Genemuiden': ('52.6228834', '6.0424311'),
+ 'Gennep': ('51.6950839', '5.9734549'),
+ 'Gieten': ('53.0033134', '6.7638462'),
+ 'Gilze': ('51.5416528', '4.9443857'),
+ 'Goedereede': ('51.8181316', '3.9776752'),
+ 'Goes': ('51.5031033', '3.8897596'),
+ 'Goingarijp': ('53.0110656', '5.7717539'),
+ 'Goirle': ('51.5056266', '5.033774070783131'),
+ 'Gorinchem': ('51.8421872', '4.974600467260094'),
+ 'Gorredijk': ('53.0059606', '6.0641634'),
+ 'Gorssel': ('52.1996486', '6.2002185'),
+ 'Gouda': ('52.018119350000006', '4.711122134697802'),
+ 'Gouderak': ('51.9850806', '4.6755692'),
+ 'Grave': ('51.7596504', '5.7411125'),
+ 'Grijpskerk': ('53.2638942', '6.3061336'),
+ 'Groede': ('51.3793344', '3.5067157'),
+ 'Groenlo': ('52.0425903', '6.6170412'),
+ 'Groesbeek': ('51.7741022', '5.9305385'),
+ 'Groningen': ('53.2190652', '6.5680077'),
+ 'Gronsveld': ('50.8110353', '5.7308285'),
+ 'Grou': ('53.0936536', '5.8322342'),
+ 'Grubbenvorst': ('51.4195305', '6.1484221'),
+ 'Gulpen': ('50.8139879', '5.8899585'),
+ 'Haaksbergen': ('52.1564581', '6.740239'),
+ 'Haaren': ('51.6036127', '5.2272278'),
+ 'Haarle (Gem. Tubbergen)': None,
+ 'Haarlem': ('52.383705750000004', '4.643559696559635'),
+ 'Haarsteeg': ('51.7103299', '5.1998801'),
+ 'Haastrecht': ('52.0007892', '4.7740369'),
+ 'Haelen': ('51.2365957', '5.9541038'),
+ 'Halfweg': ('52.3826063', '4.7546903'),
+ 'Handel': ('51.5794077', '5.7135574'),
+ 'Hapert': ('51.3709644', '5.2518766'),
+ 'Hardenberg': ('52.56982145', '6.633166913313982'),
+ 'Harderwijk': ('52.33599915', '5.640271521392062'),
+ 'Hardinxveld-Giessendam': ('51.83862405', '4.824610423909343'),
+ 'Haren': ('53.1709841', '6.6061413'),
+ 'Harlingen': ('53.1752103', '5.4141998'),
+ 'Harmelen': ('52.0914501', '4.9639631'),
+ 'Hattem': ('52.476711699999996', '6.061913261141655'),
+ 'Hattemerbroek': ('52.4765252', '6.0256402'),
+ 'Haulerwijk': ('53.065367', '6.3310325'),
+ 'Hazerswoude-Dorp': ('52.0962664', '4.5915103'),
+ 'Heemskerk': ('52.51011775', '4.635060887073173'),
+ 'Heemstede': ('52.3528406', '4.6217323'),
+ 'Heerde': ('52.4056303', '6.0413984003658525'),
+ 'Heerenveen': ('52.998474200000004', '5.923148795038062'),
+ 'Heerhugowaard': ('52.6631484', '4.8326672'),
+ 'Heerlen': ('50.8775239', '5.981506585454879'),
+ 'Heesch': ('51.73519', '5.5266331'),
+ 'Heeten': ('52.3326307', '6.2811501'),
+ 'Heeze': ('51.3832098', '5.5715902'),
+ 'Heiloo': ('52.60192475', '4.70503175175436'),
+ 'Heinkenszand': ('51.4723969', '3.8168553'),
+ 'Heino': ('52.4361877', '6.2337581'),
+ 'Helden': ('51.3203339', '6.000166'),
+ 'Hellevoetsluis': ('51.833921', '4.1436739'),
+ 'Helmond': ('51.4790956', '5.6557686'),
+ 'Helvoirt': ('51.6336388', '5.2290649'),
+ 'Hendrik- ido-ambacht': ('51.84664995', '4.634280416662918'),
+ 'Hengelo': ('52.2658726', '6.7924049'),
+ 'Herpen': ('51.7728234', '5.6422866'),
+ 'Herten': ('51.1806454', '5.9654489'),
+ 'Herveld': ('51.9060926', '5.7406415'),
+ 'Herwijnen': ('51.8267226', '5.1296799'),
+ 'Heteren': ('51.9554341', '5.7573215'),
+ 'Heythuysen': ('51.2501987', '5.9009266'),
+ 'Hezingen': ('52.4393642', '6.8511021'),
+ 'Hillegom': ('52.29482605', '4.572971256401671'),
+ 'Hilvarenbeek': ('51.48698395', '5.146972817481462'),
+ 'Hilversum': ('52.2241375', '5.1719396'),
+ 'Hippolytushoef': ('52.9057675', '4.9608021'),
+ 'Hoef en Haag': ('51.9888915', '5.1197861'),
+ 'Hoek': ('51.3093842', '3.7789931'),
+ 'Hoenderloo (Gem. Apeldoorn)': None,
+ 'Hoensbroek': ('50.9239397', '5.9293862'),
+ 'Hoevelaken': ('52.1757138', '5.4577033'),
+ 'Holwerd': ('53.3684202', '5.9051004'),
+ 'Honselersdijk': ('52.0093169', '4.2300007'),
+ 'Hoofddorp': ('52.305554', '4.6926644'),
+ 'Hoogeloon': ('51.3970303', '5.2683632'),
+ 'Hoogerheide': ('51.424339', '4.323838'),
+ 'Hoogeveen': ('52.7264258', '6.49308148854467'),
+ 'Hoogezand': ('53.1638192', '6.7556852'),
+ 'Hoogland': ('52.1872469', '5.3762224'),
+ 'Hooglanderveen': ('52.1876688', '5.4323119'),
+ 'Hoogvliet Rotterdam': ('51.8652855', '4.3641111'),
+ 'Hoogvliet rotterdam': ('51.8652855', '4.3641111'),
+ 'Hoorn': ('52.622545450000004', '5.067726588147824'),
+ 'Horn': ('52.622545450000004', '5.067726588147824'),
+ 'Horssen': ('51.857398', '5.6100963'),
+ 'Houten': ('52.03061555', '5.161216639426677'),
+ 'Huis ter Heide': ('53.0197445', '6.465528134180101'),
+ 'Huis ter heide': ('53.0197445', '6.465528134180101'),
+ 'Huissen': ('51.9383502', '5.9393769'),
+ 'Huizen': ('52.296484449999994', '5.240582040690262'),
+ 'Hulst': ('51.331593600000005', '4.087732758731072'),
+ 'Hummelo': ('52.0053791', '6.2350264'),
+ 'Hurdegaryp': ('53.2147926', '5.9413122'),
+ 'IJmuiden': ('52.4574236', '4.6111981'),
+ 'IJsselstein': ('52.026205250000004', '5.028685923229064'),
+ 'IJzendijke': ('51.3215949', '3.6156413'),
+ 'Ilpendam': ('52.466399', '4.9514315'),
+ 'Ingber': ('50.8182352', '5.8584526'),
+ 'Jaarsveld': ('51.9695118', '4.9773682'),
+ 'Julianadorp': ('52.8907035', '4.7446131'),
+ 'Kaag': ('52.2132601', '4.5583307'),
+ 'Kaatsheuvel': ('51.6598038', '5.0319484'),
+ 'Kamerik': ('52.1112741', '4.8935533'),
+ 'Kampen': ('52.5559484', '5.9033303'),
+ 'Kamperland': ('51.5680028', '3.7017099'),
+ 'Katwijk': ('52.2005078', '4.4146372'),
+ 'Kelpen-Oler': ('51.2189944', '5.8243958'),
+ 'Kerk-Avezaath (Gem. Buren)': None,
+ 'Kerkdriel': ('51.7712409', '5.33749'),
+ 'Kerkrade': ('50.874908899999994', '6.0593852849074565'),
+ 'Kerkwijk': ('51.7745473', '5.2187988'),
+ 'Kessel': ('51.2912483', '6.05734'),
+ 'Klazienaveen': ('52.725393', '6.9852072'),
+ 'Kloetinge': ('51.4984694', '3.9130606'),
+ 'Klundert': ('51.6627188', '4.5346644'),
+ 'Kockengen': ('52.1485693', '4.9498671'),
+ 'Kollum': ('53.279805', '6.148734'),
+ 'Koog aan de Zaan': ('52.4620521', '4.8071394'),
+ 'Kootwijkerbroek': ('52.1513512', '5.6631504'),
+ 'Kortenhoef': ('52.2401304', '5.1130009'),
+ 'Kortgene': ('51.5561698', '3.8019249'),
+ 'Koudekerk aan den Rijn': ('52.1319621', '4.5908325'),
+ 'Koudekerke': ('51.4821967', '3.5542879'),
+ 'Koudum': ('52.9138856', '5.4494622'),
+ 'Krimpen aan de Lek': ('51.8954222', '4.6375491'),
+ 'Krimpen aan den IJssel': ('51.914403', '4.5887889'),
+ 'Krommenie': ('52.4954557', '4.7664946'),
+ 'Kruiningen': ('51.4488064', '4.0340991'),
+ 'Kudelstaart': ('52.2342834', '4.7497339'),
+ 'Kwadijk': ('52.5272369', '4.9844677'),
+ 'Lage Mierde': ('51.4066691', '5.1491649'),
+ 'Landgraaf': ('50.9080845', '6.0264604'),
+ 'Landsmeer': ('52.44966555', '4.9302029546875765'),
+ 'Langbroek': ('52.0112919', '5.3259739'),
+ 'Laren': ('52.24253135', '5.216243996233833'),
+ 'Leek': ('53.1632327', '6.377119'),
+ 'Leende': ('51.3484037', '5.5518897'),
+ 'Leens': ('53.3599254', '6.3775996'),
+ 'Leerdam': ('51.8937356', '5.0924352'),
+ 'Leersum': ('52.0102642', '5.4332757'),
+ 'Leeuwarden': ('53.2005936', '5.7918548'),
+ 'Leiden': ('52.1594747', '4.4908843'),
+ 'Leiderdorp': ('52.15705765', '4.543378647059756'),
+ 'Leidschendam': ('52.0861654', '4.3946774'),
+ 'Leimuiden': ('52.2239922', '4.6724358'),
+ 'Lelystad': ('52.5150949', '5.4768915'),
+ 'Lemele': ('52.4535194', '6.4137203'),
+ 'Lemelerveld': ('52.4442642', '6.3396317'),
+ 'Lemmer': ('52.8444859', '5.7099136'),
+ 'Lent': ('51.8644627', '5.8670372'),
+ 'Leusden': ('52.1187668', '5.417118899734083'),
+ 'Liempde': ('51.5705349', '5.3713218'),
+ 'Lieshout': ('51.5179298', '5.5953771'),
+ 'Limmen': ('52.5718803', '4.6937182'),
+ 'Lisse': ('52.2540183', '4.541928029675811'),
+ 'Lisserbroek': ('52.2566546', '4.5732'),
+ 'Lith': ('51.8068343', '5.4403237'),
+ 'Lochem': ('52.171513149999996', '6.343658160434859'),
+ 'Loenen aan de Vecht': ('52.2097841', '5.0216458'),
+ 'Loosdrecht': ('52.202599250000006', '5.090562862602446'),
+ 'Loppersum': ('53.3320144', '6.7469502'),
+ 'Losser': ('52.300289', '6.988104272999393'),
+ 'Lunteren': ('52.0864617', '5.6190737'),
+ 'Lutjegast': ('53.2348869', '6.2570248'),
+ 'Luyksgestel': ('51.288718', '5.3212714'),
+ 'Maarheeze': ('51.3121159', '5.6158604'),
+ 'Maarssen': ('52.1384846', '5.040082'),
+ 'Maarssenbroek': ('52.1329593', '5.0260632'),
+ 'Maartensdijk': ('52.158276', '5.1731443'),
+ 'Maasbracht': ('51.1428567', '5.8830683'),
+ 'Maassluis': ('51.9266671', '4.244000657157326'),
+ 'Maastricht': ('50.8512438', '5.6909768'),
+ 'Macharen': ('51.804411', '5.5447825'),
+ 'Made': ('51.6773008', '4.7931811'),
+ 'Makkum': ('53.0572965', '5.4048682'),
+ 'Malden': ('51.7802241', '5.8539184'),
+ 'Margraten': ('50.8201564', '5.8216625'),
+ 'Markelo': ('52.2347139', '6.4949852'),
+ 'Marum': ('53.1442439', '6.2647308'),
+ 'Medemblik': ('52.7907137', '5.16862281678412'),
+ 'Meerkerk': ('51.9213105', '4.9973222'),
+ 'Meerssen': ('50.90470915', '5.735207828646779'),
+ 'Melissant': ('51.7701194', '4.0666838'),
+ 'Meppel': ('52.711744350000004', '6.197307325163717'),
+ 'Middelburg': ('51.4996784', '3.6137371'),
+ 'Middenbeemster': ('52.5489163', '4.9146226'),
+ 'Middenmeer': ('52.8111468', '4.9948462'),
+ 'Midwolda': ('53.1949414', '7.012616'),
+ 'Mijdrecht': ('52.2060181', '4.8648168'),
+ 'Mijnsheerenland': ('51.7987352', '4.4874953'),
+ 'Moergestel': ('51.5448378', '5.1805818'),
+ 'Molenhoek lb': ('51.7662937', '5.8716117'),
+ 'Monnickendam': ('52.4570766', '5.0373214'),
+ 'Monster': ('52.0223028', '4.1715344'),
+ 'Montfoort': ('52.0387833', '4.956087684635074'),
+ 'Montfort': ('52.0441945', '4.9514009'),
+ 'Moordrecht': ('51.9865065', '4.6698314'),
+ 'Muiden': ('52.3301851', '5.0692658'),
+ 'Muiderberg': ('52.3268624', '5.1170818'),
+ 'Munstergeleen': ('50.9765279', '5.8628416'),
+ 'Musselkanaal': ('52.930435', '7.0221573'),
+ 'NIEUWEGEIN': ('52.0298704', '5.0929333789192395'),
+ 'Naaldwijk': ('51.9930016', '4.2074197'),
+ 'Naarden': ('52.2957628', '5.1633636'),
+ 'Nederhorst den berg': ('52.2638961', '5.0452103'),
+ 'Nederweert': ('51.2918913', '5.74814642346813'),
+ 'Neede': ('52.1350286', '6.6113394'),
+ 'Nietap': ('53.1592746', '6.4004454'),
+ 'Nieuw vennep': ('52.2646243', '4.6340331'),
+ 'Nieuw-Amsterdam': ('52.7152155', '6.8589395'),
+ 'Nieuw-Buinen': ('52.9662192', '6.9539192'),
+ 'Nieuw-Vennep': ('52.2646243', '4.6340331'),
+ 'Nieuwe Niedorp': ('52.7375152', '4.8925528'),
+ 'Nieuwegein': ('52.0298704', '5.0929333789192395'),
+ 'Nieuwerkerk': ('51.6492243', '4.0006743'),
+ 'Nieuwerkerk a/d ijssel': ('51.9653044', '4.6168787'),
+ 'Nieuwerkerk aan den IJssel': ('51.9675284', '4.6116776'),
+ 'Nieuwersluis': ('52.196668', '5.0077712'),
+ 'Nieuwkoop': ('52.1405891', '4.786696497900001'),
+ 'Nieuwleusen': ('52.5831257', '6.286441'),
+ 'Nieuwolda': ('53.2447', '6.9747481'),
+ 'Nieuwveen': ('52.1966234', '4.7562198'),
+ 'Nijkerk': ('52.214853649999995', '5.478146323965094'),
+ 'Nijkerkerveen': ('52.195727', '5.4673875'),
+ 'Nijmegen': ('51.842574850000005', '5.838960628748229'),
+ 'Nijverdal': ('52.359431', '6.466514'),
+ 'Nistelrode': ('51.7046122', '5.5614154'),
+ 'Nooitgedacht': ('52.717366', '6.8466596'),
+ 'Noord-Scharwoude': ('52.7031261', '4.8111118'),
+ 'Noordwijk': ('52.2698936', '4.452685652490141'),
+ 'Noordwijk ZH': ('52.2698936', '4.452685652490141'),
+ 'Noordwijkerhout': ('52.2629093', '4.490519'),
+ 'Nootdorp': ('52.0426094', '4.3930456'),
+ 'Norg': ('53.0662601', '6.4594877'),
+ 'Nuenen': ('51.4743021', '5.5490439'),
+ 'Numansdorp': ('51.7266233', '4.4374377'),
+ 'Nunspeet': ('52.3372909', '5.795636429005031'),
+ 'Obdam': ('52.6780448', '4.9092183'),
+ 'Ochten': ('51.9075735', '5.5670692'),
+ 'Odijk': ('52.0493994', '5.2345455'),
+ 'Oegstgeest': ('52.1833669', '4.472129402976295'),
+ 'Oene': ('52.3438804', '6.0472267'),
+ 'Oentsjerk': ('53.2515259', '5.8971597'),
+ 'Offingawier': ('53.032225', '5.6978492'),
+ 'Oijen': ('51.8249276', '5.5020948'),
+ 'Oirschot': ('51.488961599999996', '5.300594979407693'),
+ 'Oisterwijk': ('51.56610775', '5.198644959051684'),
+ 'Oldenzaal': ('52.30853685', '6.914603743122237'),
+ 'Olst': ('52.3370093', '6.110796'),
+ 'Oostburg': ('51.3271917', '3.4895533'),
+ 'Oosterbeek': ('51.9884489', '5.8420484'),
+ 'Oosterhout': ('51.632237599999996', '4.863042417836681'),
+ 'Oosterwolde': ('52.9892251', '6.2908202'),
+ 'Oostkapelle': ('51.5654515', '3.5509041'),
+ 'Oostzaan': ('52.45218065', '4.868548732505015'),
+ 'Ootmarsum': ('52.4075801', '6.8968922'),
+ 'Opeinde': ('53.1343279', '6.0600789'),
+ 'Oppenhuizen': ('53.0122247', '5.6965417'),
+ 'Ospel': ('51.2980272', '5.7835928'),
+ 'Oss': ('51.778354199999995', '5.532083610932192'),
+ 'Otterlo': ('52.1015221', '5.7720779'),
+ 'Oud-Beijerland': ('51.8214436', '4.4164728'),
+ 'Oude Pekela': ('53.1074318', '7.013857'),
+ 'Oudenbosch': ('51.5889415', '4.5278916'),
+ 'Ouderkerk aan de Amstel': ('52.2952056', '4.9162'),
+ 'Oudewater': ('52.02015625', '4.896559775204166'),
+ 'Oudkarspel': ('52.72175775', '4.791785384542999'),
+ 'Oudkarspel (Gem. Dijk en Waard)': None,
+ 'Oudorp': ('52.6373477', '4.7754664'),
+ 'Overdinkel': ('52.2350581', '7.0368297'),
+ 'Overloon': ('51.571117', '5.9469641'),
+ 'Overveen': ('52.3934144', '4.6115554'),
+ 'Pannerden': ('51.8905258', '6.0367585'),
+ 'Panningen': ('51.3287995', '5.9819406'),
+ 'Papendrecht': ('51.834666999999996', '4.704688255674374'),
+ 'Paterswolde': ('53.1464087', '6.5665071'),
+ 'Peize': ('53.148934', '6.4933571'),
+ 'Pijnacker': ('52.0200581', '4.434186'),
+ 'Poeldijk': ('52.0225167', '4.218242'),
+ 'Polsbroek': ('51.9791304', '4.8574054'),
+ 'Poortugaal': ('51.8577532', '4.3914097'),
+ 'Posterholt': ('51.1184343', '6.0394009'),
+ 'Prinsenbeek': ('51.6003459', '4.718556'),
+ 'Purmerend': ('52.5024789', '4.9614827'),
+ 'Purmerland': ('52.4813713', '4.9259755'),
+ 'Putte': ('51.3593981', '4.3957625'),
+ 'Putten': ('52.24773005', '5.57827393798401'),
+ 'Ravenstein': ('51.797005', '5.6515519'),
+ 'Reeuwijk': ('52.0449873', '4.7224789'),
+ 'Renkum': ('51.99168495', '5.791692252659134'),
+ 'Renswoude': ('52.072421899999995', '5.5308677368115005'),
+ 'Reusel': ('51.4548902', '5.1760976'),
+ 'Reuver': ('51.2835975', '6.0782236'),
+ 'Rheden': ('52.03136695', '6.060504296329905'),
+ 'Rhenen': ('51.980847600000004', '5.5745623668309925'),
+ 'Rhoon': ('51.8569948', '4.4236815'),
+ 'Ridderkerk': ('51.8709913', '4.592647897485351'),
+ 'Riethoven': ('51.3529939', '5.3859816'),
+ 'Rijen': ('51.5879873', '4.9194511'),
+ 'Rijnsburg': ('52.1893268', '4.438952'),
+ 'Rijsbergen': ('51.5158877', '4.7005455'),
+ 'Rijsenhout': ('52.2587713', '4.7153681'),
+ 'Rijssen': ('52.3080276', '6.5213004'),
+ 'Rijswijk': ('52.0446265', '4.3188215'),
+ 'Roden': ('53.1405378', '6.4275196'),
+ 'Roermond': ('51.1933903', '5.9882649'),
+ 'Roggel': ('51.2641488', '5.9254491'),
+ 'Rohel': ('52.913971149999995', '5.827780405971511'),
+ 'Rolde': ('52.98438', '6.64876'),
+ 'Roosendaal': ('51.5331484', '4.4561276'),
+ 'Roosteren': ('51.082724', '5.8166448'),
+ 'Rosmalen': ('51.71866', '5.3629244'),
+ 'Rotterdam': ('51.9244424', '4.47775'),
+ 'Rotterdam - Centrum': ('51.9239359', '4.4696361'),
+ 'Rotterdam - Charlois': ('51.8648099', '4.454342'),
+ 'Rotterdam - Hillegersberg-Schiebroek': ('51.96783995', '4.483487982111065'),
+ 'Rotterdam - IJsselmonde': ('51.8657262', '4.5489312'),
+ 'Rotterdam - Kralingen-Crooswijk': ('51.9288493', '4.5382276'),
+ 'Rotterdam - Noord': ('51.9422622', '4.4815812'),
+ 'Rotterdam Centrum': ('51.9239359', '4.4696361'),
+ 'Rotterdam Charlois': ('51.8648099', '4.454342'),
+ 'Rotterdam Kralingen': ('51.9288493', '4.5382276'),
+ 'Rouveen': ('52.6156731', '6.1861398'),
+ 'Rozendaal': ('52.0394752', '5.963024982504363'),
+ 'Rumpt': ('51.885759', '5.1762105'),
+ 'Ruurlo': ('52.087683', '6.4493595'),
+ 'Santpoort-Noord': ('52.4338823', '4.6325507'),
+ 'Sappemeer': ('53.1642791', '6.7960954'),
+ 'Sas van Gent': ('51.2277846', '3.7999364'),
+ 'Sassenheim': ('52.2246356', '4.5199218'),
+ 'Schagen': ('52.78822125', '4.741356804254988'),
+ 'Schagerbrug': ('52.8021133', '4.7592754'),
+ 'Schaijk': ('51.746351', '5.6314653'),
+ 'Schalkhaar': ('52.2683185', '6.1946117'),
+ 'Scheemda': ('53.177619', '6.971654'),
+ 'Scherpenzeel': ('52.090368850000004', '5.507202445760246'),
+ 'Schiedam': ('51.9300454', '4.386451052615731'),
+ 'Schijndel': ('51.6176954', '5.4362541'),
+ 'Schipborg': ('53.0718486', '6.6683103'),
+ 'Schoondijke': ('51.3536051', '3.5560216'),
+ 'Schoonhoven': ('51.9463984', '4.8516431'),
+ 'Schoonoord': ('51.8022028', '5.7540042'),
+ 'Schoorl': ('52.7008899', '4.6939819'),
+ 'Serooskerke (Gem. Veere)': None,
+ 'Sevenum': ('51.4123504', '6.0370021'),
+ 'Sexbierum': ('53.2184231', '5.4853907'),
+ 'Siddeburen': ('53.2470954', '6.8644944'),
+ 'Simpelveld': ('50.83081145', '5.984685303060697'),
+ 'Sint Anthonis': ('51.626921', '5.8816763'),
+ 'Sint Odiliënberg': ('51.1430524', '6.0014301'),
+ 'Sint Pancras': ('52.6523824', '4.7797186'),
+ 'Sint-Annaland': ('51.6003889', '4.1023311'),
+ 'Sint-Michielsgestel': ('51.65091405', '5.365289061090603'),
+ 'Sint-Oedenrode': ('51.5646434', '5.4610004'),
+ 'Sittard': ('50.9974235', '5.8666627'),
+ 'Sleen': ('52.772368', '6.8031287'),
+ 'Sleeuwijk': ('51.8141355', '4.9519913'),
+ 'Sliedrecht': ('51.8308564', '4.76984303118367'),
+ 'Sluis': ('51.32566285', '3.5166308518864264'),
+ 'Sluiskil': ('51.2779511', '3.8350654'),
+ 'Smilde': ('52.9507953', '6.4507154'),
+ 'Sneek': ('53.033548', '5.6611029'),
+ 'Soest': ('52.164475749999994', '5.295725560695609'),
+ 'Soesterberg': ('52.1208994', '5.2836057'),
+ 'Someren': ('51.38632235', '5.688884477579495'),
+ 'Son en Breugel': ('51.5173136', '5.500838'),
+ 'Spaarndam': ('52.4127958', '4.6820132'),
+ 'Spanbroek': ('52.6978541', '4.9612207'),
+ 'Spijkenisse': ('51.8464881', '4.3287681'),
+ 'Sprang-Capelle': ('51.6705258', '5.0252983'),
+ 'St. Willebrord': ('51.5510331', '4.5907863'),
+ 'St.-Annaparochie': ('53.2763942', '5.654757'),
+ 'Stadskanaal': ('52.996240099999994', '7.001434882926471'),
+ 'Stampersgat': ('51.6135113', '4.4429316'),
+ 'Standdaarbuiten': ('51.6115293', '4.5140407'),
+ 'Staphorst': ('52.6368387', '6.208129727382328'),
+ 'Stavenisse': ('51.5859884', '4.0126377'),
+ 'Stavoren': ('52.8832689', '5.3602125'),
+ 'Steenbergen': ('51.603292100000004', '4.309251716161476'),
+ 'Steenwijk': ('52.7895502', '6.1210477'),
+ 'Stein': ('50.9732145', '5.760681940061414'),
+ 'Stellendam': ('51.8050289', '4.0269198'),
+ 'Stevensweert': ('51.1311936', '5.8460462'),
+ 'Stolwijk': ('51.9728033', '4.7747778'),
+ 'Stompetoren': ('52.6124729', '4.8201023'),
+ 'Surhuisterveen': ('53.1802681', '6.1701295'),
+ 'Susteren': ('51.0654229', '5.8518902'),
+ 'Swalmen': ('51.231394', '6.0356507'),
+ 'Tegelen': ('51.3429314', '6.1362198'),
+ 'Ter Aar': ('52.1655725', '4.709364'),
+ 'Terborg': ('51.9211908', '6.3614794'),
+ 'Terheijden': ('51.6429923', '4.7525569'),
+ 'Ternaard': ('53.3819925', '5.9639038'),
+ 'Terneuzen': ('51.29884295', '3.8422043956030683'),
+ 'Terwolde': ('52.2816866', '6.0998032'),
+ 'Teteringen': ('51.6103716', '4.8214856'),
+ 'Tiel': ('51.892425349999996', '5.430438174137935'),
+ 'Tienray': ('51.4952892', '6.0928198'),
+ 'Tilburg': ('51.58561845', '5.0660616131367675'),
+ 'Tjerkwerd': ('53.0414583', '5.5002915'),
+ 'Tolbert': ('53.1734473', '6.3635404'),
+ 'Tricht': ('51.8890722', '5.2700796'),
+ 'UTRECHT': ('52.080985600000005', '5.12768396945229'),
+ 'Uden': ('51.6590888', '5.6148605'),
+ 'Uitgeest': ('52.523293949999996', '4.737466990272131'),
+ 'Uithoorn': ('52.24400285', '4.828160506359512'),
+ 'Ulvenhout': ('51.5488342', '4.7977229'),
+ 'Ulvenhout (Gem. Breda)': None,
+ 'Ureterp': ('53.0956508', '6.1683085'),
+ 'Urmond': ('50.9911568', '5.7717119'),
+ 'Utrecht': ('52.080985600000005', '5.12768396945229'),
+ 'Vaals': ('50.7781016', '5.981067967268041'),
+ 'Vaassen': ('52.2901716', '5.9686728'),
+ 'Valburg': ('51.911008', '5.7885376'),
+ 'Valkenburg': ('50.8647531', '5.8312518'),
+ 'Valkenswaard': ('51.3202409', '5.458181897733282'),
+ 'Varsseveld': ('51.9438019', '6.4636436'),
+ 'Veendam': ('53.0807517', '6.877303483300453'),
+ 'Veenendaal': ('52.02320415', '5.551800233162295'),
+ 'Veere': ('51.55640385', '3.577269355747127'),
+ 'Veghel': ('51.6134636', '5.5446455'),
+ 'Veldhoven': ('51.4190691', '5.4045572'),
+ 'Velp': ('51.9958671', '5.9751252'),
+ 'Velsen-Noord': ('52.4738528', '4.6379311'),
+ 'Velserbroek': ('52.4311302', '4.6603416'),
+ 'Venlo': ('51.39244885', '6.1511724144122955'),
+ 'Venray': ('51.5082754', '5.958901096612693'),
+ 'Vessem': ('51.419252', '5.2882066'),
+ 'Vianen': ('51.989011', '5.0937308'),
+ 'Vijfhuizen': ('52.3507789', '4.6782318'),
+ 'Vilsteren': ('52.5105988', '6.3523257'),
+ 'Vinkel (Gem. Den Bosch)': None,
+ 'Vinkeveen': ('52.2153192', '4.9348062'),
+ 'Vlaardingen': ('51.9227863', '4.329563378870851'),
+ 'Vleuten': ('52.1073555', '5.0135224'),
+ 'Vlijmen': ('51.694263', '5.2091225'),
+ 'Vlissingen': ('51.49433865', '3.415005767601362'),
+ 'Vlodrop': ('51.1320628', '6.0778915'),
+ 'Vogelwaarde': ('51.3249192', '3.9723356'),
+ 'Volendam': ('52.4963759', '5.0682736'),
+ 'Vollenhove': ('52.6807305', '5.9491128'),
+ 'Voorburg': ('52.0703201', '4.3558561'),
+ 'Voorhout': ('52.2244226', '4.4886562'),
+ 'Voorschoten': ('52.12572195', '4.441016864583206'),
+ 'Voorst': ('52.2374112', '6.086274393475191'),
+ 'Voorthuizen': ('52.1871648', '5.6071994'),
+ 'Vreeland': ('52.2303415', '5.0319258'),
+ 'Vries': ('53.0767216', '6.5779261'),
+ 'Vriezenveen': ('52.4086697', '6.6148049'),
+ 'Vroomshoop': ('52.457312', '6.5696271'),
+ 'Vught': ('51.6511806', '5.23680014410728'),
+ 'Waalre': ('51.3856734', '5.466115689689311'),
+ 'Waalwijk': ('51.687337150000005', '5.017307939950269'),
+ 'Waddinxveen': ('52.0443437', '4.641596120380745'),
+ 'Wagenberg': ('51.6659781', '4.7473229'),
+ 'Wageningen': ('51.9685817', '5.668298061827958'),
+ 'Wanroij': ('51.6569768', '5.8201853'),
+ 'Wapenveld': ('52.4314896', '6.072898'),
+ 'Warffum': ('53.3911179', '6.5588495'),
+ 'Warmenhuizen': ('52.7224072', '4.73452'),
+ 'Warmond': ('52.1979528', '4.5028721'),
+ 'Warnsveld': ('52.1443409', '6.2268734'),
+ 'Wassenaar': ('52.14361135', '4.370966818678455'),
+ 'Watergang': ('52.4393529', '4.9509883'),
+ 'Wateringen': ('52.0235098', '4.2745855'),
+ 'Weerselo': ('52.3508632', '6.8539238'),
+ 'Weert': ('51.235582949999994', '5.705079711646853'),
+ 'Weesp': ('52.3072593', '5.0420822'),
+ 'Wehl': ('51.9571754', '6.2137189'),
+ 'Welsum': ('52.3363058', '6.0929325'),
+ 'Werkhoven': ('52.0263968', '5.2440771'),
+ 'Wernhout': ('51.4540976', '4.6420179'),
+ 'Wesepe': ('52.3302274', '6.2138749'),
+ 'Westbeemster': ('52.5750545', '4.8990905'),
+ 'Westdorpe': ('51.2302243', '3.823928'),
+ 'Westendorp': ('51.9502068', '6.4126431'),
+ 'Westerbork': ('52.8492168', '6.6103067'),
+ 'Westerhoven': ('51.3316002', '5.3985112'),
+ 'Westerland': ('52.8940753', '4.9310859'),
+ 'Westervoort': ('51.9597557', '5.9682662318854725'),
+ 'Weurt': ('51.8582919', '5.815368'),
+ 'Wierden': ('52.35195215', '6.567448420567358'),
+ 'Wieringerwerf': ('52.850955', '5.0226161'),
+ 'Wierum': ('53.4013438', '6.015071'),
+ 'Wijchen': ('51.82025285', '5.696090348571646'),
+ 'Wijdewormer': ('52.5002304', '4.8922785'),
+ 'Wijk bij Duurstede': ('51.9775074', '5.326929727283412'),
+ 'Wijk en Aalburg': ('51.7564268', '5.1282689'),
+ 'Wilnis': ('52.195378', '4.899067'),
+ 'Wilp': ('52.2185102', '6.1468559'),
+ 'Winschoten': ('53.143001', '7.0380717'),
+ 'Winssen': ('51.882578', '5.7095104'),
+ 'Winsum': ('53.1526714', '5.6324887'),
+ 'Winterswijk': ('51.96802135', '6.737872334611222'),
+ 'Winterswijk Corle': ('51.96863845', '6.662671313185088'),
+ 'Woensdrecht': ('51.4106688', '4.327761012867084'),
+ 'Woerden': ('52.08701595', '4.876687198673499'),
+ 'Wolvega': ('52.8762872', '6.001764'),
+ 'Wormer': ('52.4983267', '4.8123847'),
+ 'Wormerveer': ('52.4952218', '4.7876566'),
+ 'Woubrugge': ('52.1696062', '4.6392252'),
+ 'Woudenberg': ('52.08025955', '5.4122265761644925'),
+ 'Woudsend': ('52.9439576', '5.628238'),
+ 'Ysselsteyn': ('51.4899045', '5.8961579'),
+ 'Zaamslag': ('51.3121293', '3.9132518'),
+ 'Zaandam': ('52.4424926', '4.8298607'),
+ 'Zaltbommel': ('51.782164', '5.189826737158967'),
+ 'Zandvoort': ('52.3713394', '4.5307624'),
+ 'Zeewolde': ('52.3451194', '5.4580775473608565'),
+ 'Zeist': ('52.086531750000006', '5.249007957671885'),
+ 'Zetten': ('51.9283579', '5.7134529'),
+ 'Zevenaar': ('51.927908099999996', '6.077526279085048'),
+ 'Zevenbergen': ('51.6450443', '4.6061538'),
+ 'Zevenhuizen': ('53.1254057', '6.349367'),
+ 'Zierikzee': ('51.6497688', '3.9208365'),
+ 'Zoelen': ('51.9104965', '5.4037092'),
+ 'Zoetermeer': ('52.06228915', '4.487754536970652'),
+ 'Zoutkamp': ('53.3369602', '6.3011339'),
+ 'Zuid-Scharwoude': ('52.6916739', '4.8093553'),
+ 'Zuiderwoude': ('52.4314816', '5.035318'),
+ 'Zuidhorn': ('53.2480736', '6.4049853'),
+ 'Zuidland': ('51.8220839', '4.2577294'),
+ 'Zuidlaren': ('53.0940808', '6.6871992'),
+ 'Zuidoostbeemster': ('52.5153527', '4.9428991'),
+ 'Zuidvelde': ('53.0446319', '6.458122'),
+ 'Zuidwolde': ('53.2607348', '6.5918683'),
+ 'Zundert': ('51.48587835', '4.654245796859225'),
+ 'Zutphen': ('52.1396933', '6.194772'),
+ 'Zwaag': ('52.6687248', '5.0755907'),
+ 'Zwaagdijk-Oost': ('52.7047349', '5.1336218'),
+ 'Zwanenburg': ('52.3779288', '4.7436402'),
+ 'Zwijndrecht': ('51.82052005', '4.625731518379531'),
+ 'Zwolle': ('52.5089759', '6.0943765'),
+ 'de Lutte': ('52.3143672', '6.9905783')}
